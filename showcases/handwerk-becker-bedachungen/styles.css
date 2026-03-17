@@ -284,8 +284,10 @@ p {
 .timeline-item,
 .faq-item,
 .contact-box,
-.point {
-  background: rgba(255, 255, 255, 0.55);
+.point,
+.detail-card,
+.legal-card {
+  background: rgba(255, 255, 255, 0.58);
   border: 1px solid var(--line);
   box-shadow: var(--shadow);
 }
@@ -471,6 +473,22 @@ p {
   resize: vertical;
 }
 
+.contact-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 24px;
+}
+
+.contact-pills span {
+  padding: 10px 14px;
+  border-radius: 999px;
+  background: rgba(53, 92, 125, 0.08);
+  border: 1px solid rgba(53, 92, 125, 0.14);
+  color: var(--accent-2);
+  font-weight: 600;
+}
+
 .site-footer {
   padding: 26px 0 48px;
 }
@@ -501,9 +519,6 @@ p {
 .detail-card {
   padding: 28px;
   border-radius: 28px;
-  background: rgba(255, 255, 255, 0.58);
-  border: 1px solid var(--line);
-  box-shadow: var(--shadow);
 }
 
 .list {
@@ -516,6 +531,20 @@ p {
   display: grid;
   gap: 8px;
   margin-top: 22px;
+}
+
+.legal-page {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 40px 0;
+}
+
+.legal-card {
+  width: min(760px, 100%);
+  border-radius: 28px;
+  padding: 34px;
+  background: rgba(255, 255, 255, 0.72);
 }
 
 .reveal {
