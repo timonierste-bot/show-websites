@@ -1,0 +1,10 @@
+# Notion Bereich
+
+Hier sammeln wir spaeter:
+
+- Datenbankstruktur fuer Show-Websites
+- Angebotspipeline
+- Kundenbriefings
+- Designsammlung und Referenzen
+
+Aktueller Stand: Die lokale Codex-Konfiguration kennt einen Notion-MCP-Eintrag, aber ich habe in diesem Agenten noch keinen direkten Zugriff auf deine Notion-Inhalte erhalten.
