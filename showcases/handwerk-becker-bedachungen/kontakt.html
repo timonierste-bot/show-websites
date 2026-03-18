@@ -6,17 +6,12 @@
     <title>Kontakt | Becker Bedachungen</title>
     <meta
       name="description"
-      content="Kontaktseite der Demo fuer Becker Bedachungen mit direktem Rueckruf-Fokus und klarer Anfragefuehrung."
-    />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap"
-      rel="stylesheet"
+      content="Kontaktseite von Becker Bedachungen mit klarer Anfrageführung, Rückruf-Fokus und regionaler Verankerung."
     />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
+    <a class="skip-link" href="#main">Zum Inhalt springen</a>
     <header class="site-header">
       <div class="container nav">
         <a class="brand" href="./index.html">
@@ -26,24 +21,24 @@
             <small>Marl und Umgebung</small>
           </span>
         </a>
-        <nav class="nav-links">
-          <a href="./index.html">Start</a>
+        <nav class="nav-links" aria-label="Hauptnavigation">
           <a href="./leistungen.html">Leistungen</a>
           <a href="./projekte.html">Projekte</a>
-          <a href="./kontakt.html">Kontakt</a>
+          <a href="./kontakt.html" aria-current="page">Kontakt</a>
+          <a href="./impressum.html">Impressum</a>
         </nav>
-        <a class="nav-cta" href="./kontakt.html">Rueckruf anfragen</a>
+        <a class="nav-cta" href="./kontakt.html">Kostenlose Einschätzung</a>
       </div>
     </header>
 
-    <main>
+    <main id="main">
       <section class="hero hero-inner">
         <div class="container">
           <p class="eyebrow reveal">Kontakt</p>
-          <h1 class="reveal">Eine Kontaktseite, die nicht ueberfordert, sondern Anfragen einfacher macht.</h1>
+          <h1 class="reveal">Eine Kontaktseite, die Unsicherheit reduziert und den nächsten Schritt einfach macht.</h1>
           <p class="hero-text narrow reveal">
-            Gerade im Handwerk ist eine unkomplizierte Anfrage oft wichtiger als ein kompliziertes Formular.
-            Diese Demo setzt deshalb auf Klarheit und schnelle Kontaktaufnahme.
+            Gerade im Handwerk ist ein unkomplizierter Erstkontakt oft wichtiger als ein großes Formular.
+            Darum geht es hier um Klarheit, Erreichbarkeit und eine verständliche Erwartung für den weiteren Ablauf.
           </p>
         </div>
       </section>
@@ -52,41 +47,51 @@
         <div class="container contact-box reveal">
           <div>
             <p class="eyebrow">Direkter Kontakt</p>
-            <h2>Wir melden uns in der Regel innerhalb von 24 Stunden.</h2>
+            <h2>Wir melden uns in der Regel innerhalb von 24 Stunden mit einer ersten Einschätzung.</h2>
             <p>
-              Die Kontaktseite ist darauf ausgelegt, Seriositaet und Erreichbarkeit auszustrahlen.
-              Perfekt fuer Betriebe, die Empfehlungen professionell in neue Anfragen umwandeln wollen.
+              Ob Reparatur, Dachsanierung oder Neueindeckung: Sie beschreiben kurz Ihr Anliegen und
+              bekommen danach eine klare Rückmeldung, wie dringend das Thema ist und wie es weitergehen kann.
             </p>
             <div class="contact-pills">
-              <span>Rueckruf</span>
+              <span>Rückruf</span>
               <span>Vor-Ort-Termin</span>
-              <span>Notfall?</span>
+              <span>Dringende Schäden</span>
               <span>Regionale Projekte</span>
             </div>
             <div class="contact-meta">
               <p><strong>Telefon:</strong> 02365 123456</p>
               <p><strong>E-Mail:</strong> info@becker-bedachungen.de</p>
-              <p><strong>Einsatzgebiet:</strong> Marl, Recklinghausen, Haltern am See, Ruhrgebiet</p>
+              <p><strong>Einsatzgebiet:</strong> Marl, Recklinghausen, Haltern am See und das Ruhrgebiet</p>
             </div>
           </div>
-          <form class="contact-form">
-            <label>
-              Name
-              <input type="text" placeholder="Max Mustermann" />
+          <form class="contact-form" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" data-form>
+            <input type="hidden" name="form-name" value="contact" />
+            <label class="sr-only">
+              Nicht ausfüllen
+              <input type="text" name="bot-field" tabindex="-1" autocomplete="off" />
             </label>
             <label>
-              E-Mail
-              <input type="email" placeholder="max@beispiel.de" />
+              Name
+              <input type="text" name="name" placeholder="Max Mustermann" required />
             </label>
             <label>
               Telefonnummer
-              <input type="tel" placeholder="0151 00000000" />
+              <input type="tel" name="phone" placeholder="0151 00000000" required />
+            </label>
+            <label>
+              E-Mail
+              <input type="email" name="email" placeholder="max@beispiel.de" />
             </label>
             <label>
               Worum geht es?
-              <textarea placeholder="Zum Beispiel: Dachsanierung, Reparatur, Neueindeckung oder allgemeine Beratung."></textarea>
+              <textarea
+                name="message"
+                placeholder="Zum Beispiel: Dachsanierung, Reparatur nach Sturm, Neueindeckung oder Beratung."
+                required
+              ></textarea>
             </label>
-            <button class="button button-primary" type="button">Anfrage senden</button>
+            <p class="form-note">Je konkreter Sie kurz beschreiben, worum es geht, desto schneller können wir die Situation einschätzen.</p>
+            <button class="button button-primary" type="submit">Anfrage senden</button>
           </form>
         </div>
       </section>
@@ -94,7 +99,7 @@
 
     <footer class="site-footer">
       <div class="container footer-wrap">
-        <p>Showcase-Demo fuer Nierste Distribution · Handwerk / Dachdecker</p>
+        <p>Showcase-Demo für Nierste Distribution - Handwerk / Dachdecker</p>
         <div class="footer-links">
           <a href="./index.html">Start</a>
           <a href="./leistungen.html">Leistungen</a>
