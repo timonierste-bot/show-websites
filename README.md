@@ -4,12 +4,12 @@ Arbeitsbereich fuer Beispiel-Websites, Angebotsvorlagen und kuenftige Kundenprae
 
 ## Ziel dieses Repositories
 
-Dieser Ordner ist die zentrale Arbeitsflaeche fuer:
+Dieser Bereich ist die zentrale Arbeitsflaeche fuer:
 
 - Showcases und Demo-Websites fuer verschiedene Branchen
 - individualisierte Angebotsentwuerfe fuer potenzielle Kunden
 - Briefing- und Projektvorlagen
-- spaetere GitHub- und Notion-Organisation fuer dieses Geschaeftsfeld
+- technische Website-Dokumentation
 
 ## Startstruktur
 
@@ -18,8 +18,13 @@ Dieser Ordner ist die zentrale Arbeitsflaeche fuer:
 - `briefings/` Briefings, Frageboegen und Discovery-Unterlagen
 - `docs/` Kontext, Regeln und Projektwissen
 - `assets/` wiederverwendbare Marken- und Medienbausteine
-- `ops/` Arbeitsablaeufe fuer GitHub, Notion und interne Prozesse
+
+## Was hier nicht mehr liegt
+
+- Betrieb, Monitoring und System-Agent-Logik gehoeren nach `08_Automationen`
+- Notion-Sync, Outlook, Reports und Security-Checks gehoeren nach `08_Automationen`
+- dauerhafte Ordnerlogik fuer die Firma wird nicht hier gepflegt
 
 ## Arbeitsprinzip
 
-Bestehende Firmeninhalte bleiben unangetastet. Dieses Repository dient als eigener Bereich fuer Show-Websites und kuenftige Vertriebsunterlagen.
+Bestehende Firmeninhalte bleiben unangetastet. Dieses Repository dient nur noch als eigener Bereich fuer Show-Websites und kuenftige Vertriebsunterlagen.

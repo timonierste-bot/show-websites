@@ -30,6 +30,12 @@ Dauerhaftes Wissen fuer dieses Vorhaben, zum Beispiel Positionierung, Designrege
 
 Wiederverwendbare Logos, Texte, Bilder, Farbdefinitionen oder Copy-Bausteine.
 
-### `ops/`
+### Was nicht mehr hier liegt
 
-Operative Organisation fuer GitHub, Notion und spaetere Arbeitsablaeufe.
+- Operative Organisation fuer GitHub, Notion und spaetere Arbeitsablaeufe liegt jetzt in `08_Automationen`
+- Monitoring, Briefings, Logs und System-Agent-Doku gehoeren nicht mehr in `Show Websites`
+
+## Hinweis
+
+- `Show Websites` bleibt der Bereich fuer Websites, Angebote und webnahe Projektinhalte.
+- `08_Automationen` ist die Betriebszentrale fuer Routine, Sicherheit und Reports.
