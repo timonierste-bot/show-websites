@@ -4,19 +4,23 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Bestand | Automobile Lipperweg</title>
-    <meta name="description" content="Alle Fahrzeuge von Automobile Lipperweg im modernen Premium-Bestand mit Filter, Detailkarten und direkter Anfrage." />
+    <meta
+      name="description"
+      content="Immersiver Fahrzeugbestand von Automobile Lipperweg mit Filter, Detailkarten und direkter Anfrage."
+    />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
     <div class="page-backdrop"></div>
     <a class="skip-link" href="#main">Zum Inhalt springen</a>
+
     <header class="site-header">
       <div class="container nav-shell">
-        <a class="brand" href="./index.html">
+        <a class="brand" href="./index.html" aria-label="Startseite Automobile Lipperweg">
           <span class="brand-mark">
             <svg viewBox="0 0 48 48" aria-hidden="true">
-              <path d="M10 27.5 16.5 17h15.2l6.3 10.5H10Z" fill="currentColor" opacity="0.9" />
-              <path d="M13 28.5h22.3c1 0 1.9.4 2.5 1.1l2.7 3.2c.7.8.1 2.2-1 2.2h-2.2a4.3 4.3 0 0 1-8.5 0H18a4.3 4.3 0 0 1-8.5 0H7.6c-1.2 0-1.8-1.4-1.1-2.3l2.8-3.1c.6-.7 1.5-1.1 2.4-1.1Z" fill="currentColor" opacity="0.7" />
+              <path d="M10 27.5 16.5 17h15.2l6.3 10.5H10Z" fill="currentColor" opacity="0.92" />
+              <path d="M13 28.5h22.3c1 0 1.9.4 2.5 1.1l2.7 3.2c.7.8.1 2.2-1 2.2h-2.2a4.3 4.3 0 0 1-8.5 0H18a4.3 4.3 0 0 1-8.5 0H7.6c-1.2 0-1.8-1.4-1.1-2.3l2.8-3.1c.6-.7 1.5-1.1 2.4-1.1Z" fill="currentColor" opacity="0.72" />
             </svg>
           </span>
           <span>
@@ -24,40 +28,107 @@
             <small>Bestand</small>
           </span>
         </a>
+
         <nav class="nav-links" aria-label="Hauptnavigation">
           <a href="./index.html">Start</a>
           <a href="./kontakt.html">Kontakt</a>
           <a href="./impressum.html">Impressum</a>
         </nav>
+
         <a class="nav-cta" href="./kontakt.html">Anfrage senden</a>
       </div>
     </header>
 
     <main id="main">
-      <section class="section section-tight">
-        <div class="container">
-          <div class="section-head reveal">
-            <p class="eyebrow">Fahrzeugbestand</p>
-            <div>
-              <h1>Der komplette Bestand, modern und übersichtlich aufbereitet.</h1>
-              <p>
-                Mit Filter, schnellen Details und einem klaren Weg zur Anfrage. Die Karten
-                basieren auf dem aktuellen mobile.de-Bestand und sind für spätere Synchronisierung
-                vorbereitet.
-              </p>
+      <section class="hero hero-inventory">
+        <div class="container hero-grid">
+          <div class="hero-copy reveal">
+            <p class="eyebrow">Fahrzeugbestand · Bühne statt Tabelle</p>
+            <h1>Der komplette Bestand, als kuratierte High-End-Galerie.</h1>
+            <p class="hero-text">
+              Große Bilder, ruhige Karten, klare Daten und schnelle Filter. So wirkt ein
+              Gebrauchtwagenbestand heute, wenn er sich wirklich nach Premium anfühlen soll.
+            </p>
+            <div class="hero-actions">
+              <a class="button button-primary" href="./kontakt.html">Fahrzeug anfragen</a>
+              <a class="button button-secondary" href="https://home.mobile.de/AUTOMOBILELIPPERWEGMARL" target="_blank" rel="noreferrer">mobile.de öffnen</a>
+            </div>
+            <ul class="hero-badges">
+              <li>mobile.de als Datenbasis</li>
+              <li>7 Showcase-Fahrzeuge</li>
+              <li>Filterbar mit Markenlogik</li>
+            </ul>
+          </div>
+
+          <div class="hero-stage reveal" data-hero-stage>
+            <div class="hero-stage-ambient"></div>
+            <div class="hero-frame" data-depth="0.12">
+              <img
+                src="https://img.classistatic.de/api/v1/mo-prod/images/11/11e8d345-7828-4211-8088-26161d8befd8?rule=mo-1600"
+                alt="Mazda 2 als Bestands-Highlight"
+                loading="eager"
+              />
+              <div class="hero-frame-overlay">
+                <p>Bestands-Highlight</p>
+                <strong>Mazda 2 Lim. Kizoku 1.5</strong>
+              </div>
+            </div>
+
+            <div class="hero-float hero-float-a" data-depth="0.16">
+              <span class="float-label">Signal</span>
+              <strong>Bestand wirkt wie ein Showcase</strong>
+            </div>
+
+            <div class="hero-float hero-float-b" data-depth="0.20">
+              <span class="float-label">Status</span>
+              <strong>Direkte Anfrage oder mobile.de</strong>
             </div>
           </div>
+        </div>
+      </section>
 
-          <div class="filter-bar reveal" data-filter-bar>
-            <button class="filter-chip is-active" type="button" data-filter="all">Alle</button>
-            <button class="filter-chip" type="button" data-filter="Volkswagen">Volkswagen</button>
-            <button class="filter-chip" type="button" data-filter="BMW">BMW</button>
-            <button class="filter-chip" type="button" data-filter="Hyundai">Hyundai</button>
-            <button class="filter-chip" type="button" data-filter="Mazda">Mazda</button>
-            <button class="filter-chip" type="button" data-filter="Renault">Renault</button>
+      <section class="section section-contrast">
+        <div class="container inventory-layout">
+          <aside class="inventory-rail reveal">
+            <div class="glass-panel rail-panel">
+              <p class="eyebrow">Filter</p>
+              <p>Die Auswahl bleibt fokussiert, schnell scannbar und hochwertig inszeniert.</p>
+              <div class="filter-bar" data-filter-bar>
+                <button class="filter-chip is-active" type="button" data-filter="all">Alle</button>
+                <button class="filter-chip" type="button" data-filter="Volkswagen">Volkswagen</button>
+                <button class="filter-chip" type="button" data-filter="BMW">BMW</button>
+                <button class="filter-chip" type="button" data-filter="Hyundai">Hyundai</button>
+                <button class="filter-chip" type="button" data-filter="Mazda">Mazda</button>
+                <button class="filter-chip" type="button" data-filter="Renault">Renault</button>
+              </div>
+            </div>
+
+            <div class="sync-card rail-sync">
+              <p class="eyebrow">mobile.de Sync</p>
+              <h3>Bestände einmal pflegen und überall sauber ausspielen.</h3>
+              <p>
+                Diese Vorschau denkt bereits mit einer gemeinsamen Datenquelle für Website und
+                mobile.de.
+              </p>
+              <a class="button button-primary" href="./kontakt.html">Synchronisierung anfragen</a>
+            </div>
+          </aside>
+
+          <div class="inventory-main">
+            <div class="section-head reveal">
+              <p class="eyebrow">Aktueller Bestand</p>
+              <div>
+                <h2>Die Karten sitzen bewusst ruhig im Raum, damit Bilder und Daten atmen können.</h2>
+                <p>
+                  Mehr Magazin als Liste, mehr Erlebnis als bloßes Exposé. Genau das hebt die
+                  Seite aus der Standard-Autohändler-Sprache heraus.
+                </p>
+              </div>
+              <a class="text-link" href="./index.html#bewertungen">Zu den Bewertungen</a>
+            </div>
+
+            <div class="inventory-grid inventory-full" data-stock-grid></div>
           </div>
-
-          <div class="inventory-grid inventory-full" data-stock-grid></div>
         </div>
       </section>
     </main>
@@ -91,7 +162,7 @@
           <p class="modal-description" data-modal-description></p>
           <div class="modal-actions">
             <a class="button button-primary" href="./kontakt.html">Anfrage senden</a>
-            <a class="button button-secondary" href="https://home.mobile.de/AUTOMOBILELIPPERWEGMARL" target="_blank" rel="noreferrer">mobile.de öffnen</a>
+            <a class="button button-secondary" href="./index.html">Zur Startseite</a>
           </div>
         </div>
       </div>

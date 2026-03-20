@@ -4,19 +4,23 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Kontakt | Automobile Lipperweg</title>
-    <meta name="description" content="Kontakt zu Automobile Lipperweg in Marl: Telefon, WhatsApp, Anfrageformular und Standort mit Karte." />
+    <meta
+      name="description"
+      content="Kontakt zu Automobile Lipperweg in Marl: Telefon, WhatsApp, Anfrageformular und Standort mit Karte."
+    />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
     <div class="page-backdrop"></div>
     <a class="skip-link" href="#main">Zum Inhalt springen</a>
+
     <header class="site-header">
       <div class="container nav-shell">
-        <a class="brand" href="./index.html">
+        <a class="brand" href="./index.html" aria-label="Startseite Automobile Lipperweg">
           <span class="brand-mark">
             <svg viewBox="0 0 48 48" aria-hidden="true">
-              <path d="M10 27.5 16.5 17h15.2l6.3 10.5H10Z" fill="currentColor" opacity="0.9" />
-              <path d="M13 28.5h22.3c1 0 1.9.4 2.5 1.1l2.7 3.2c.7.8.1 2.2-1 2.2h-2.2a4.3 4.3 0 0 1-8.5 0H18a4.3 4.3 0 0 1-8.5 0H7.6c-1.2 0-1.8-1.4-1.1-2.3l2.8-3.1c.6-.7 1.5-1.1 2.4-1.1Z" fill="currentColor" opacity="0.7" />
+              <path d="M10 27.5 16.5 17h15.2l6.3 10.5H10Z" fill="currentColor" opacity="0.92" />
+              <path d="M13 28.5h22.3c1 0 1.9.4 2.5 1.1l2.7 3.2c.7.8.1 2.2-1 2.2h-2.2a4.3 4.3 0 0 1-8.5 0H18a4.3 4.3 0 0 1-8.5 0H7.6c-1.2 0-1.8-1.4-1.1-2.3l2.8-3.1c.6-.7 1.5-1.1 2.4-1.1Z" fill="currentColor" opacity="0.72" />
             </svg>
           </span>
           <span>
@@ -34,15 +38,19 @@
     </header>
 
     <main id="main">
-      <section class="section section-tight">
+      <section class="section contact-section">
         <div class="container contact-layout">
-          <div class="contact-card reveal">
+          <div class="contact-intro reveal">
             <p class="eyebrow">Direkter Kontakt</p>
-            <h1>Ein kurzer Weg zur Anfrage ist im Gebrauchtwagenhandel oft der entscheidende Vorteil.</h1>
+            <h1>Ein guter Händlerauftritt macht die erste Anfrage so leicht wie möglich.</h1>
             <p>
               Automobile Lipperweg ist in Marl verankert und lässt sich über Telefon, WhatsApp
-              oder Formular schnell erreichen.
+              oder Formular schnell erreichen. Genau diese Einfachheit gehört zur Premium-Erfahrung.
             </p>
+            <div class="hero-actions">
+              <a class="button button-primary" href="tel:+4923652997661">02365 2997661</a>
+              <a class="button button-secondary" href="https://wa.me/4923652997661" target="_blank" rel="noreferrer">WhatsApp schreiben</a>
+            </div>
             <div class="contact-methods">
               <a class="contact-method" href="tel:+4923652997661">
                 <span>Telefon</span>
@@ -57,36 +65,42 @@
                 <strong>info@automobile-lipperweg.de</strong>
               </a>
             </div>
+          </div>
 
-            <form class="contact-form" action="https://formsubmit.co/info@automobile-lipperweg.de" method="POST">
-              <input type="hidden" name="_subject" value="Neue Anfrage über die Website" />
-              <input type="hidden" name="_captcha" value="false" />
-              <input type="hidden" name="_next" value="./danke.html" />
-              <label>
-                Name
-                <input type="text" name="name" placeholder="Ihr Name" required />
-              </label>
-              <label>
-                Telefonnummer oder E-Mail
-                <input type="text" name="contact" placeholder="Wie wir Sie erreichen dürfen" required />
-              </label>
-              <label>
-                Wunschfahrzeug
-                <input type="text" name="vehicle" placeholder="z. B. Golf Sportsvan, Mazda 2 ..." />
-              </label>
-              <label>
-                Nachricht
-                <textarea name="message" rows="5" placeholder="Worum geht es genau?" required></textarea>
-              </label>
-              <button class="button button-primary" type="submit">Anfrage senden</button>
-            </form>
+          <div class="contact-panel reveal">
+            <div class="glass-panel contact-glass">
+              <p class="eyebrow">Anfrage</p>
+              <h2>Kurzer Weg. Klare Daten. Direkte Rückmeldung.</h2>
+              <form class="contact-form" action="https://formsubmit.co/info@automobile-lipperweg.de" method="POST">
+                <input type="hidden" name="_subject" value="Neue Anfrage über die Website" />
+                <input type="hidden" name="_captcha" value="false" />
+                <input type="hidden" name="_next" value="./danke.html" />
+                <label>
+                  Name
+                  <input type="text" name="name" placeholder="Ihr Name" required />
+                </label>
+                <label>
+                  Telefonnummer oder E-Mail
+                  <input type="text" name="contact" placeholder="Wie wir Sie erreichen dürfen" required />
+                </label>
+                <label>
+                  Wunschfahrzeug
+                  <input type="text" name="vehicle" placeholder="z. B. Golf Sportsvan, Mazda 2 ..." />
+                </label>
+                <label>
+                  Nachricht
+                  <textarea name="message" rows="5" placeholder="Worum geht es genau?" required></textarea>
+                </label>
+                <button class="button button-primary" type="submit">Anfrage senden</button>
+              </form>
+            </div>
           </div>
 
           <div class="contact-side reveal">
             <div class="glass-panel location-panel">
               <p class="eyebrow">Standort</p>
               <h2>Lipper Weg 38, 45770 Marl</h2>
-              <p>Öffnungszeiten laut öffentliche Brancheneinträge:</p>
+              <p>Öffnungszeiten laut öffentlichem Brancheneintrag:</p>
               <ul class="hours-list">
                 <li>Mo–Fr: 09:00–18:00</li>
                 <li>Sa: 10:00–18:00</li>
