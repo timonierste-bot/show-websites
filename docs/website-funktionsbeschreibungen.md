@@ -24,6 +24,16 @@ Die Website ist als moderner Handwerksauftritt für Dachdecker- und Sanierungsle
 - Kontaktseite mit direkter Anfrageführung
 - mobile Optimierung und klare Conversion-Führung
 
+## Dieter Schnabel GmbH
+
+Die neue Vorschau für Dieter Schnabel GmbH ordnet die Heizungs- und Sanitärleistungen ruhiger, hochwertiger und verkaufsstärker. Sie zeigt den Betrieb als klareren Ansprechpartner mit besserer Vorher / Nachher-Darstellung.
+
+### Funktionen
+
+- Heizungs- und Sanitärvorschau mit hochwertigerer Ordnung
+- Vergleichsseite für den alten und neuen Auftritt
+- Kontakt- und Leistungsführung in ruhiger Premium-Optik
+
 ## AK Metall & Stahlbau
 
 Diese Vorschau ist als hochwertiger Metallbau- und Stahlbauauftritt konzipiert. Der Fokus liegt auf echtem Bildmaterial, stärkerer visueller Wirkung, Produktdarstellung und einem professionellen, industrieorientierten Kontaktweg.
@@ -47,3 +57,33 @@ Die Autohaus-Website ist als High-End-Gebrauchtwagenauftritt aufgebaut. Sie verb
 - Trust-Bereich mit Bewertungen und Kennzahlen
 - Kontaktseite mit Formular, Telefon, WhatsApp und Karte
 - vorbereitete Datenstruktur für spätere mobile.de-Synchronisierung
+
+## Große Büning
+
+Die neue Vorschau ist auf Heizung und Lüftung mit klarerer digitaler Eigenständigkeit ausgelegt. Sie zeigt den Betrieb als modernen regionalen Ansprechpartner mit ruhigerer Führung und stärkerem Vergleich alt / neu.
+
+### Funktionen
+
+- neuer Auftritt für Heizungs- und Lüftungsbau
+- Vergleichsseite mit Vorher / Neu
+- Kontakt- und Leistungsführung in ruhiger Premium-Optik
+
+## Haustechnik Erken
+
+Diese Vorschau transportiert den Meisterbetrieb stärker als Premium-Ansprechpartner für Wärme, Wohlfühlen und Service. Der Fokus liegt auf mehr Ruhe, klarerer Beratung und sichtbarerer Fachlichkeit.
+
+### Funktionen
+
+- Premium-Auftritt für Sanitär- und Heizungsthemen
+- Vergleichsseite mit Vorher / Neu
+- Kontakt- und Vertrauenstransfer in einer ruhigeren Struktur
+
+## Paul Vilimek GmbH
+
+Die Vorschau ordnet die vielen Leistungen des Betriebs klarer und hochwertiger. Badplanung, Leitungen, Heizung und Kontakt bekommen eine deutlich stärkere, verständlichere Bühne.
+
+### Funktionen
+
+- strukturierte Vorschau für Bad, Heizung und Leitungen
+- Vergleich alt / neu für die digitale Wirkung
+- saubere Kontaktführung und klarere Leistungsdarstellung
