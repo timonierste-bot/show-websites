@@ -9,8 +9,9 @@ Die neue Nierste-Seite ist als hochwertige Vertriebs- und Akquise-Website für K
 - klarer Hero mit Vorher/Nachher-Vorschau
 - Vergleichsseite für die alte und neue Qualitätsstufe
 - Leistungs-, Prozess-, Preis- und FAQ-Bereich
-- Showcase-Sektion mit Becker Bedachungen, AK Metall & Stahlbau und Automobile Lipperweg
+- Showcase-Sektion mit Becker Bedachungen, AK Metall & Stahlbau, Automobile Lipperweg, Dieter Schnabel GmbH, Große Büning, Haustechnik Erken und Paul Vilimek GmbH
 - Kontaktstrecke mit direkter Anfrageführung
+- öffentliche Showcase-Übersicht für verschickbare Vorschauen
 
 ## Becker Bedachungen
 
@@ -26,13 +27,14 @@ Die Website ist als moderner Handwerksauftritt für Dachdecker- und Sanierungsle
 
 ## Dieter Schnabel GmbH
 
-Die neue Vorschau für Dieter Schnabel GmbH ordnet die Heizungs- und Sanitärleistungen ruhiger, hochwertiger und verkaufsstärker. Sie zeigt den Betrieb als klareren Ansprechpartner mit besserer Vorher / Nachher-Darstellung.
+Die neue Vorschau für Dieter Schnabel GmbH ordnet die Heizungs- und Sanitärleistungen ruhiger, hochwertiger und verkaufsstärker. Sie zeigt den Betrieb als klareren Ansprechpartner mit besserer Vorher / Nachher-Darstellung und echten Bildern aus dem Betrieb.
 
 ### Funktionen
 
 - Heizungs- und Sanitärvorschau mit hochwertigerer Ordnung
 - Vergleichsseite für den alten und neuen Auftritt
 - Kontakt- und Leistungsführung in ruhiger Premium-Optik
+- echte Bildwelt statt nur erklärender Texte
 
 ## AK Metall & Stahlbau
 
@@ -57,16 +59,19 @@ Die Autohaus-Website ist als High-End-Gebrauchtwagenauftritt aufgebaut. Sie verb
 - Trust-Bereich mit Bewertungen und Kennzahlen
 - Kontaktseite mit Formular, Telefon, WhatsApp und Karte
 - vorbereitete Datenstruktur für spätere mobile.de-Synchronisierung
+- fertige Kundenversion statt reinem Showcase-Text
+- öffentliche Vorschau als verschickbarer Link
 
 ## Große Büning
 
-Die neue Vorschau ist auf Heizung und Lüftung mit klarerer digitaler Eigenständigkeit ausgelegt. Sie zeigt den Betrieb als modernen regionalen Ansprechpartner mit ruhigerer Führung und stärkerem Vergleich alt / neu.
+Die neue Vorschau ist auf Heizung, Lüftung und Badrenovierung mit klarerer digitaler Eigenständigkeit ausgelegt. Sie zeigt den Betrieb als modernen regionalen Ansprechpartner mit ruhigerer Führung und stärkerem Vergleich alt / neu.
 
 ### Funktionen
 
 - neuer Auftritt für Heizungs- und Lüftungsbau
 - Vergleichsseite mit Vorher / Neu
 - Kontakt- und Leistungsführung in ruhiger Premium-Optik
+- Bild- und Kontaktführung für eine fertige Kundenversion
 
 ## Haustechnik Erken
 
@@ -77,6 +82,7 @@ Diese Vorschau transportiert den Meisterbetrieb stärker als Premium-Ansprechpar
 - Premium-Auftritt für Sanitär- und Heizungsthemen
 - Vergleichsseite mit Vorher / Neu
 - Kontakt- und Vertrauenstransfer in einer ruhigeren Struktur
+- echte Referenzbilder und klarer Meisterbetriebs-Charakter
 
 ## Paul Vilimek GmbH
 
@@ -87,3 +93,12 @@ Die Vorschau ordnet die vielen Leistungen des Betriebs klarer und hochwertiger. 
 - strukturierte Vorschau für Bad, Heizung und Leitungen
 - Vergleich alt / neu für die digitale Wirkung
 - saubere Kontaktführung und klarere Leistungsdarstellung
+- fertige Kundenversion mit stärkerer Bildsprache und echten Kontaktdaten
+
+## Aktuelle Links
+
+- [Show Websites Hub](https://timonierste-bot.github.io/show-websites/)
+- [Dieter Schnabel GmbH](https://timonierste-bot.github.io/show-websites/showcases/dieter-schnabel-gmbh/)
+- [Große Büning](https://timonierste-bot.github.io/show-websites/showcases/grosse-buening/)
+- [Haustechnik Erken](https://timonierste-bot.github.io/show-websites/showcases/haustechnik-erken/)
+- [Paul Vilimek GmbH](https://timonierste-bot.github.io/show-websites/showcases/paul-vilimek-gmbh/)

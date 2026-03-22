@@ -1,24 +1,24 @@
-﻿# Dieter Schnabel GmbH - Handoff
+# Grosse Buening - Handoff
 
 ## Status
 
 - Preview vorbereiten
-- Projekt ist im Aufbau fuer eine Vorschau
+- Projekt ist lokal angelegt und wartet auf den eigentlichen Aufbau
 
-## Aus der Lead-Liste
+## Kontext
 
-- Score: 82
-- Stadt: Marl
-- Branche: Heizung & Sanitär
+- Quelle: Akquise-Liste in `03_Marketing`
+- Kontakt: `info@grosse-buening.de`
+- Website: noch pruefen
 
 ## Noch offen
 
-- Website-Inhalte endgueltig pruefen
+- Bestehenden Auftritt oder Referenzen pruefen
 - Preview-Struktur bauen
-- ggf. Texte, Kontaktweg und Vertrauenselemente scharfziehen
+- Texte, CTA und Kontaktfuehrung schaerfen
 
 ## Naechster sinnvoller Schritt
 
-1. Vorhandene Website oder Referenzen sichern
-2. Preview-Struktur im Projektordner aufbauen
-3. Rueckmeldung oder Freigabe vorbereiten
+1. Bestehende Website oder andere Referenzen ermitteln
+2. Preview im Projektordner aufbauen
+3. Versand oder internen Review vorbereiten

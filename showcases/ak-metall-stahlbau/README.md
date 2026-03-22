@@ -12,6 +12,21 @@ vertriebsstärkere Struktur:
 - verständlichere Produktstruktur
 - stärkere Kontaktführung ohne zusätzliche Hosting-Abhängigkeit
 
+## Aktueller Stand
+
+- Preview ist lokal vorbereitet und nutzbar
+- Preview ist an den Kunden verschickt
+- jetzt wartet das Projekt auf Rueckmeldung
+- Kontaktweg ist eingebaut
+- Impressum und Datenschutz sind vorhanden
+- Design, Struktur und Inhalte sind vereinheitlicht
+
+## Noch offen
+
+- Kundenfeedback abwarten
+- eventuelle Aenderungswuensche einarbeiten
+- danach final pruefen oder live uebergeben
+
 ## Verwendete Inhalte
 
 Aus der bestehenden Website übernommen und neu strukturiert:

@@ -19,6 +19,13 @@ Dieser Bereich ist die zentrale Arbeitsflaeche fuer:
 - `docs/` Kontext, Regeln und Projektwissen
 - `assets/` wiederverwendbare Marken- und Medienbausteine
 
+## Aktuelle Preview-Projekte
+
+- `showcases/dieter-schnabel-gmbh`
+- `showcases/haustechnik-erken`
+- `showcases/grosse-buening`
+- `showcases/paul-vilimek-gmbh`
+
 ## Was hier nicht mehr liegt
 
 - Betrieb, Monitoring und System-Agent-Logik gehoeren nach `08_Automationen`
