@@ -75,7 +75,20 @@ Die Vorschau ordnet die vielen Leistungen des Betriebs klarer und hochwertiger. 
 ## Aktuelle Links
 
 - [Show Websites Hub](https://timonierste-bot.github.io/show-websites/)
+- [Alle Vorschauen](https://timonierste-bot.github.io/show-websites/alle-vorschauen.html)
 - [Dieter Schnabel GmbH](https://timonierste-bot.github.io/show-websites/showcases/dieter-schnabel-gmbh/)
 - [Große Büning](https://timonierste-bot.github.io/show-websites/showcases/grosse-buening/)
 - [Haustechnik Erken](https://timonierste-bot.github.io/show-websites/showcases/haustechnik-erken/)
 - [Paul Vilimek GmbH](https://timonierste-bot.github.io/show-websites/showcases/paul-vilimek-gmbh/)
+
+## Alle Vorschauen
+
+Die Vollübersicht bündelt alle aktuell fertigen Vorschauen an einem Ort. Sie ist als Such- und Versandhub gedacht, damit du Firmen, Branchen und Orte schnell findest und die passenden Preview- oder Vergleichslinks direkt weitergeben kannst.
+
+### Funktionen
+
+- vollständige Liste aller verfügbaren Vorschauen
+- Suchfunktion für Firmen, Branchen und Orte
+- direkte Vorschau-Links pro Firma
+- Vergleichslinks, sofern vorhanden
+- ideal als Versand- und Ordnungsseite für die 100er-Liste
