@@ -1,1 +1,23 @@
-# Handoff – Gerwerth GmbH  - Ort: Waltrop - Quelle: https://www.gerwerth-waltrop.de/ - Ziel: verkaufsstarke Kunden-Vorschau - Status: Vorschau fertig  ## Was enthalten ist - Startseite mit klarem Einstiegs-Hero - Impressum - Datenschutz - hochwertige Kontaktführung  ## Nächste Schritte - bei Zusage auf die finale Kundenversion anpassen - Inhalte, Referenzen und Kontaktangaben verfeinern - anschließend live deployen
+# Gerwerth GmbH - Handoff
+
+## Status
+
+- Preview vorbereitet
+- VollstÃ¤ndige Vorschau fÃ¼r die Kundenerstansicht
+
+## Kontext
+
+- Ort: Waltrop
+- Fokus: Haustechnik
+- Quelle: https://www.gerwerth-waltrop.de/
+- Preview-Typ: Lead-Gen Preview
+
+## Noch offen
+
+- Falls die Vorschau live Ã¼bernommen wird, mÃ¼ssen reale Kontaktdaten, Rechtsangaben und ggf. Bildrechte vor Livegang geprÃ¼ft werden.
+
+## NÃ¤chster sinnvoller Schritt
+
+1. Vorschau intern / mit dem Kunden abstimmen
+2. Texte, Bilder und Kontaktangaben bei Bedarf finalisieren
+3. Vor Livegang Impressum und Datenschutz mit echten Unternehmensdaten schÃ¤rfen

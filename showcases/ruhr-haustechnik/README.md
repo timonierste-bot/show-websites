@@ -1,1 +1,17 @@
-# Ruhr Haustechnik Website  Kundenfertige Vorschau für Ruhr Haustechnik in Marl. Die Seite zeigt die bestehende Website in einer deutlich klareren, hochwertigeren und verkaufsstürkeren Form.  ## Seiten - index.html Startseite mit Hero, Leistungen, Vertrauen und Kontakt - impressum.html Rechtliche Angaben - datenschutz.html Datenschutzhinweise  ## Quelle - Original: https://ruhr-haustechnik.de/ - Fokus: Großer, technisch breiter Betrieb mit starkem Hebel für eine hochwertige Vorschau.  ## Hinweise - Die Vorschau ist für WhatsApp, Mail und Prüsentation gedacht. - Die finale Live-Version wird bei Bedarf auf den Kunden weiter angepasst.
+# Ruhr Haustechnik Website
+
+Kompakte, hochwertige Website fÃ¼r Ruhr Haustechnik in Marl. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
+
+## Seiten
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
+- impressum.html Rechtliche Angaben
+- datenschutz.html DatenschutzerklÃ¤rung
+
+## Hinweise
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://ruhr-haustechnik.de/
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Marl

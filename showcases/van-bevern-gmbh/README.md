@@ -1,1 +1,17 @@
-# Van Bevern GmbH Website  Kundenfertige Vorschau für Van Bevern GmbH in Herne. Die Seite zeigt die bestehende Website in einer deutlich klareren, hochwertigeren und verkaufsstürkeren Form.  ## Seiten - index.html Startseite mit Hero, Leistungen, Vertrauen und Kontakt - impressum.html Rechtliche Angaben - datenschutz.html Datenschutzhinweise  ## Quelle - Original: https://www.sh-vanbevern.de/ - Fokus: Solider Betrieb mit genügend Potenzial für eine hochwertigere Anmutung.  ## Hinweise - Die Vorschau ist für WhatsApp, Mail und Prüsentation gedacht. - Die finale Live-Version wird bei Bedarf auf den Kunden weiter angepasst.
+# Van Bevern GmbH Website
+
+Kompakte, hochwertige Website fÃ¼r Van Bevern GmbH in Herne. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
+
+## Seiten
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
+- impressum.html Rechtliche Angaben
+- datenschutz.html DatenschutzerklÃ¤rung
+
+## Hinweise
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://www.sh-vanbevern.de/
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Herne

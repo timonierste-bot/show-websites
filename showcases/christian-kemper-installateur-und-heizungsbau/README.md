@@ -1,1 +1,17 @@
-# Christian Kemper Installateur und Heizungsbau Website  Kundenfertige Vorschau für Christian Kemper Installateur und Heizungsbau in Gelsenkirchen. Die Seite zeigt die bestehende Website in einer deutlich klareren, hochwertigeren und verkaufsstürkeren Form.  ## Seiten - index.html Startseite mit Hero, Leistungen, Vertrauen und Kontakt - impressum.html Rechtliche Angaben - datenschutz.html Datenschutzhinweise  ## Quelle - Original: https://www.kemper-shk.de/ - Fokus: Aktiver Meisterbetrieb mit klarer Kontaktstruktur und hoher Eignung für eine Preview.  ## Hinweise - Die Vorschau ist für WhatsApp, Mail und Prüsentation gedacht. - Die finale Live-Version wird bei Bedarf auf den Kunden weiter angepasst.
+# Christian Kemper Installateur und Heizungsbau Website
+
+Kompakte, hochwertige Website fÃ¼r Christian Kemper Installateur und Heizungsbau in Gelsenkirchen. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
+
+## Seiten
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
+- impressum.html Rechtliche Angaben
+- datenschutz.html DatenschutzerklÃ¤rung
+
+## Hinweise
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://www.kemper-shk.de/
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Gelsenkirchen

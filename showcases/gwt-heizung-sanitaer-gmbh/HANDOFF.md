@@ -1,16 +1,23 @@
-# Übergabe – GWT Heizung Sanitär GmbH
+# GWT Heizung Sanitär GmbH - Handoff
 
-## Inhaltliche Schwerpunkte
-- Fokus auf Heizung, Sanitär, Wartung
-- Lokaler Bezug: Bochum und Umgebung
-- Klare Projektführung und strukturierter Ablauf
+## Status
 
-## To-do für Livegang
-- Rechtsangaben vervollständigen
-- Telefonnummer und E-Mail hinterlegen
-- Formular an E-Mail oder CRM anbinden
-- Projektbilder ergänzen
+- Preview vorbereitet
+- VollstÃ¤ndige Vorschau fÃ¼r die Kundenerstansicht
 
-## Hinweise
-- Die Gestaltung ist bewusst warm und hochwertig (Serif-Headline, gedeckte Farben).
-- Alle Texte sind neutral formuliert, ohne unbestätigte Leistungsversprechen.
+## Kontext
+
+- Ort: Bochum
+- Fokus: Haustechnik
+- Quelle: https://www.vwt-bochum.de/
+- Preview-Typ: Lead-Gen Preview
+
+## Noch offen
+
+- Falls die Vorschau live Ã¼bernommen wird, mÃ¼ssen reale Kontaktdaten, Rechtsangaben und ggf. Bildrechte vor Livegang geprÃ¼ft werden.
+
+## NÃ¤chster sinnvoller Schritt
+
+1. Vorschau intern / mit dem Kunden abstimmen
+2. Texte, Bilder und Kontaktangaben bei Bedarf finalisieren
+3. Vor Livegang Impressum und Datenschutz mit echten Unternehmensdaten schÃ¤rfen

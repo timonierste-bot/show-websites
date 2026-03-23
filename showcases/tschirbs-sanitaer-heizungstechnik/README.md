@@ -1,1 +1,17 @@
-﻿# Tschirbs Sanitär- und Heizungstechnik GmbH  Preview-Projekt fuer Nierste Distribution.  ## Status  - Aktion: Preview vorbereiten - Phase: Platzhalter angelegt - Typ: Top-100-Preview  ## Quelle  - `03_Marketing/Nierste_Akquise_Liste.xlsx` - Blatt: `Top Preview 100` - Prioritaet: `100` - Score: `72` - Kategorie: `B`  ## Kontext  - Ort: `Schwerte` - Aktivitaet: `aktiv bestätigt` - Website oder Quelle: `https://www.tschirbs-gmbh.de/`  ## Ziel  Diese Vorschau soll einen klareren, moderneren und vertrauensstaerkeren Erstauftritt vorbereiten.  ## Naechste Schritte  1. Bestehenden Auftritt oder Referenzen pruefen 2. Preview-Struktur im Projektordner aufbauen 3. Kontaktweg und Vertrauenselemente ausarbeiten 4. Bei Bedarf als Kundenvorschau versenden
+# Tschirbs Sanitär- und Heizungstechnik GmbH Website
+
+Kompakte, hochwertige Website fÃ¼r Tschirbs Sanitär- und Heizungstechnik GmbH in Schwerte. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
+
+## Seiten
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
+- impressum.html Rechtliche Angaben
+- datenschutz.html DatenschutzerklÃ¤rung
+
+## Hinweise
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://www.tschirbs-gmbh.de/
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Schwerte

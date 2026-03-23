@@ -1,1 +1,17 @@
-# Michael Lethmate Sanitär & Heizung Website  Kundenfertige Vorschau für Michael Lethmate Sanitär & Heizung in Gelsenkirchen. Die Seite zeigt die bestehende Website in einer deutlich klareren, hochwertigeren und verkaufsstürkeren Form.  ## Seiten - index.html Startseite mit Hero, Leistungen, Vertrauen und Kontakt - impressum.html Rechtliche Angaben - datenschutz.html Datenschutzhinweise  ## Quelle - Original: https://www.shk-lethmate.de/ - Fokus: Seit 1998 geführt und regional sichtbar, daher guter Kandidat für eine neue Vorschau.  ## Hinweise - Die Vorschau ist für WhatsApp, Mail und Prüsentation gedacht. - Die finale Live-Version wird bei Bedarf auf den Kunden weiter angepasst.
+# Michael Lethmate Sanitär & Heizung Website
+
+Kompakte, hochwertige Website fÃ¼r Michael Lethmate Sanitär & Heizung in Gelsenkirchen. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
+
+## Seiten
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
+- impressum.html Rechtliche Angaben
+- datenschutz.html DatenschutzerklÃ¤rung
+
+## Hinweise
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://www.shk-lethmate.de/
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Gelsenkirchen

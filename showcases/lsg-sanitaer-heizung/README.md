@@ -1,16 +1,17 @@
-# LSG SanitÃ¤r & Heizung Meisterbetrieb Website
+# LSG Sanitär & Heizung Meisterbetrieb Website
 
-Kundenfertige Vorschau fÃ¼r LSG SanitÃ¤r & Heizung Meisterbetrieb in Dinslaken. Die Seite zeigt die bestehende Website in einer deutlich klareren, hochwertigeren und verkaufsstÃ¤rkeren Form.
+Kompakte, hochwertige Website fÃ¼r LSG Sanitär & Heizung Meisterbetrieb in Dinslaken. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
 
 ## Seiten
-- index.html Startseite mit Hero, Leistungen, Vertrauen und Kontakt
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
 - impressum.html Rechtliche Angaben
-- datenschutz.html Datenschutzhinweise
-
-## Quelle
-- Original: https://www.lsgsanitaerheizung.de/
-- Fokus: Meisterbetrieb mit viel Potenzial fÃ¼r eine klare und Ã¼berzeugende Premium-Darstellung.
+- datenschutz.html DatenschutzerklÃ¤rung
 
 ## Hinweise
-- Die Vorschau ist fÃ¼r WhatsApp, Mail und PrÃ¤sentation gedacht.
-- Die finale Live-Version wird bei Bedarf auf den Kunden weiter angepasst.
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://www.lsgsanitaerheizung.de/
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Dinslaken

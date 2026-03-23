@@ -1,17 +1,23 @@
-# Handoff â€“ HÃ¼bner Heizung-LÃ¼ftung-SanitÃ¤r
+# Hübner Heizung-Lüftung-Sanitär - Handoff
+
+## Status
+
+- Preview vorbereitet
+- VollstÃ¤ndige Vorschau fÃ¼r die Kundenerstansicht
+
+## Kontext
 
 - Ort: Gelsenkirchen
+- Fokus: Haustechnik
 - Quelle: https://www.evng.de/content/dam/revu-global/evng/documents/installateure/installateure_gas.pdf
-- Ziel: verkaufsstarke Kunden-Vorschau
-- Status: Vorschau fertig
+- Preview-Typ: Lead-Gen Preview
 
-## Was enthalten ist
-- Startseite mit klarem Einstiegs-Hero
-- Impressum
-- Datenschutz
-- hochwertige KontaktfÃ¼hrung
+## Noch offen
 
-## NÃ¤chste Schritte
-- bei Zusage auf die finale Kundenversion anpassen
-- Inhalte, Referenzen und Kontaktangaben verfeinern
-- anschlieÃŸend live deployen
+- Falls die Vorschau live Ã¼bernommen wird, mÃ¼ssen reale Kontaktdaten, Rechtsangaben und ggf. Bildrechte vor Livegang geprÃ¼ft werden.
+
+## NÃ¤chster sinnvoller Schritt
+
+1. Vorschau intern / mit dem Kunden abstimmen
+2. Texte, Bilder und Kontaktangaben bei Bedarf finalisieren
+3. Vor Livegang Impressum und Datenschutz mit echten Unternehmensdaten schÃ¤rfen

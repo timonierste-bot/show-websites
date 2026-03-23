@@ -1,12 +1,23 @@
-﻿# Handoff – Ihr Monteur Wegener & Pfützenreuter GbR
+# Ihr Monteur Wegener & Pfützenreuter GbR - Handoff
 
-## Offene Inhalte
-- Adresse, Telefonnummer und zentrale E-Mail ergÃƒÂ¤nzen.
-- Vertretungsberechtigte Person, Registergericht und Handelsregisternummer ergÃƒÂ¤nzen.
-- Umsatzsteuer-ID prÃƒÂ¼fen und ergÃƒÂ¤nzen.
-- Konkrete Leistungsbereiche bestÃƒÂ¤tigen oder anpassen.
+## Status
 
-## Empfohlene Erweiterungen
-- Echte Projektbeispiele oder kurze Referenzen ergÃƒÂ¤nzen.
-- Team- oder Arbeitsbilder einpflegen.
-- Kontaktformular an echtes Backend oder E-Mail-Workflow anbinden.
+- Preview vorbereitet
+- VollstÃ¤ndige Vorschau fÃ¼r die Kundenerstansicht
+
+## Kontext
+
+- Ort: Witten
+- Fokus: Haustechnik
+- Quelle: https://www.ihr-monteur.de/
+- Preview-Typ: Lead-Gen Preview
+
+## Noch offen
+
+- Falls die Vorschau live Ã¼bernommen wird, mÃ¼ssen reale Kontaktdaten, Rechtsangaben und ggf. Bildrechte vor Livegang geprÃ¼ft werden.
+
+## NÃ¤chster sinnvoller Schritt
+
+1. Vorschau intern / mit dem Kunden abstimmen
+2. Texte, Bilder und Kontaktangaben bei Bedarf finalisieren
+3. Vor Livegang Impressum und Datenschutz mit echten Unternehmensdaten schÃ¤rfen

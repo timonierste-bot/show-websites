@@ -1,16 +1,17 @@
-# HÃ¼bner Heizung-LÃ¼ftung-SanitÃ¤r Website
+# Hübner Heizung-Lüftung-Sanitär Website
 
-Kundenfertige Vorschau fÃ¼r HÃ¼bner Heizung-LÃ¼ftung-SanitÃ¤r in Gelsenkirchen. Die Seite zeigt die bestehende Website in einer deutlich klareren, hochwertigeren und verkaufsstÃ¤rkeren Form.
+Kompakte, hochwertige Website fÃ¼r Hübner Heizung-Lüftung-Sanitär in Gelsenkirchen. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
 
 ## Seiten
-- index.html Startseite mit Hero, Leistungen, Vertrauen und Kontakt
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
 - impressum.html Rechtliche Angaben
-- datenschutz.html Datenschutzhinweise
-
-## Quelle
-- Original: https://www.evng.de/content/dam/revu-global/evng/documents/installateure/installateure_gas.pdf
-- Fokus: Technisch breiter Betrieb, der mit einer guten Preview direkt professioneller wirkt.
+- datenschutz.html DatenschutzerklÃ¤rung
 
 ## Hinweise
-- Die Vorschau ist fÃ¼r WhatsApp, Mail und PrÃ¤sentation gedacht.
-- Die finale Live-Version wird bei Bedarf auf den Kunden weiter angepasst.
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://www.evng.de/content/dam/revu-global/evng/documents/installateure/installateure_gas.pdf
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Gelsenkirchen

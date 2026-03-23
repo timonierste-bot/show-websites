@@ -1,1 +1,17 @@
-﻿# Schiller Sanitär Heizung Klima  Preview-Projekt fuer Nierste Distribution.  ## Status  - Aktion: Preview vorbereiten - Phase: Platzhalter angelegt - Typ: Top-100-Preview  ## Quelle  - `03_Marketing/Nierste_Akquise_Liste.xlsx` - Blatt: `Top Preview 100` - Prioritaet: `73` - Score: `77` - Kategorie: `B`  ## Kontext  - Ort: `Oberhausen` - Aktivitaet: `wahrscheinlich aktiv` - Website oder Quelle: `Quelle: Oberhausener Gasfachfirmen-Verzeichnis`  ## Ziel  Diese Vorschau soll einen klareren, moderneren und vertrauensstaerkeren Erstauftritt vorbereiten.  ## Naechste Schritte  1. Bestehenden Auftritt oder Referenzen pruefen 2. Preview-Struktur im Projektordner aufbauen 3. Kontaktweg und Vertrauenselemente ausarbeiten 4. Bei Bedarf als Kundenvorschau versenden
+# N&B Sanitär, Heizung & Klima GmbH Website
+
+Kompakte, hochwertige Website fÃ¼r N&B Sanitär, Heizung & Klima GmbH in Mülheim an der Ruhr. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
+
+## Seiten
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
+- impressum.html Rechtliche Angaben
+- datenschutz.html DatenschutzerklÃ¤rung
+
+## Hinweise
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://nb-shk.de/
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Mülheim an der Ruhr

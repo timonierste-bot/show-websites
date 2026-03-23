@@ -1,1 +1,17 @@
-# Gerwerth GmbH Website  Kundenfertige Vorschau für Gerwerth GmbH in Waltrop. Die Seite zeigt die bestehende Website in einer deutlich klareren, hochwertigeren und verkaufsstürkeren Form.  ## Seiten - index.html Startseite mit Hero, Leistungen, Vertrauen und Kontakt - impressum.html Rechtliche Angaben - datenschutz.html Datenschutzhinweise  ## Quelle - Original: https://www.gerwerth-waltrop.de/ - Fokus: Traditionsbetrieb mit genügend Material für eine überzeugende Vorher-Nachher-Preview.  ## Hinweise - Die Vorschau ist für WhatsApp, Mail und Prüsentation gedacht. - Die finale Live-Version wird bei Bedarf auf den Kunden weiter angepasst.
+# Gerwerth GmbH Website
+
+Kompakte, hochwertige Website fÃ¼r Gerwerth GmbH in Waltrop. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
+
+## Seiten
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
+- impressum.html Rechtliche Angaben
+- datenschutz.html DatenschutzerklÃ¤rung
+
+## Hinweise
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://www.gerwerth-waltrop.de/
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Waltrop

@@ -1,16 +1,17 @@
-# Markus Weber GebÃ¤udetechnik SanitÃ¤r-Heizung-Klima Website
+# Markus Weber Gebäudetechnik Sanitär-Heizung-Klima Website
 
-Kundenfertige Vorschau fÃ¼r Markus Weber GebÃ¤udetechnik SanitÃ¤r-Heizung-Klima in Witten. Die Seite zeigt die bestehende Website in einer deutlich klareren, hochwertigeren und verkaufsstÃ¤rkeren Form.
+Kompakte, hochwertige Website fÃ¼r Markus Weber Gebäudetechnik Sanitär-Heizung-Klima in Witten. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
 
 ## Seiten
-- index.html Startseite mit Hero, Leistungen, Vertrauen und Kontakt
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
 - impressum.html Rechtliche Angaben
-- datenschutz.html Datenschutzhinweise
-
-## Quelle
-- Original: https://www.gebaeudetechnik-mweber.de/
-- Fokus: Breites GebÃ¤udetechnik-Profil, das sich gut in eine starke digitale Darstellung Ã¼bersetzen lÃ¤sst.
+- datenschutz.html DatenschutzerklÃ¤rung
 
 ## Hinweise
-- Die Vorschau ist fÃ¼r WhatsApp, Mail und PrÃ¤sentation gedacht.
-- Die finale Live-Version wird bei Bedarf auf den Kunden weiter angepasst.
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://www.gebaeudetechnik-mweber.de/
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Witten

@@ -1,1 +1,17 @@
-﻿# Wools Heizungs- und Sanitärtechnik  Preview-Projekt fuer Nierste Distribution.  ## Status  - Aktion: Preview vorbereiten - Phase: Platzhalter angelegt - Typ: Top-100-Preview  ## Quelle  - `03_Marketing/Nierste_Akquise_Liste.xlsx` - Blatt: `Top Preview 100` - Prioritaet: `59` - Score: `79` - Kategorie: `B`  ## Kontext  - Ort: `Duisburg` - Aktivitaet: `wahrscheinlich aktiv` - Website oder Quelle: `https://adresse.dastelefonbuch.de/Duisburg/2-Sanit%C3%A4r-Wools-Heizungs-und-Sanit%C3%A4rtechnik-Duisburg-Wegnerstr.html`  ## Ziel  Diese Vorschau soll einen klareren, moderneren und vertrauensstaerkeren Erstauftritt vorbereiten.  ## Naechste Schritte  1. Bestehenden Auftritt oder Referenzen pruefen 2. Preview-Struktur im Projektordner aufbauen 3. Kontaktweg und Vertrauenselemente ausarbeiten 4. Bei Bedarf als Kundenvorschau versenden
+# Wools Heizungs- und Sanitärtechnik Website
+
+Kompakte, hochwertige Website fÃ¼r Wools Heizungs- und Sanitärtechnik in Duisburg. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
+
+## Seiten
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
+- impressum.html Rechtliche Angaben
+- datenschutz.html DatenschutzerklÃ¤rung
+
+## Hinweise
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://adresse.dastelefonbuch.de/Duisburg/2-Sanit%C3%A4r-Wools-Heizungs-und-Sanit%C3%A4rtechnik-Duisburg-Wegnerstr.html
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Duisburg

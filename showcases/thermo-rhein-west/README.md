@@ -1,16 +1,17 @@
 # Thermo Rhein West Website
 
-Kundenfertige Vorschau fÃ¼r Thermo Rhein West in MÃ¼lheim an der Ruhr. Die Seite zeigt die bestehende Website in einer deutlich klareren, hochwertigeren und verkaufsstÃ¤rkeren Form.
+Kompakte, hochwertige Website fÃ¼r Thermo Rhein West in Mülheim an der Ruhr. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
 
 ## Seiten
-- index.html Startseite mit Hero, Leistungen, Vertrauen und Kontakt
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
 - impressum.html Rechtliche Angaben
-- datenschutz.html Datenschutzhinweise
-
-## Quelle
-- Original: https://www.thermo-rheinwest.de/
-- Fokus: Gute Ausgangslage fÃ¼r eine wertigere, conversionstÃ¤rkere AuÃŸendarstellung.
+- datenschutz.html DatenschutzerklÃ¤rung
 
 ## Hinweise
-- Die Vorschau ist fÃ¼r WhatsApp, Mail und PrÃ¤sentation gedacht.
-- Die finale Live-Version wird bei Bedarf auf den Kunden weiter angepasst.
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://www.thermo-rheinwest.de/
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Mülheim an der Ruhr

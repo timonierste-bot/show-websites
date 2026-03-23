@@ -1,12 +1,17 @@
-# A-Team SanitÃ¤rtechnik GmbH Website
+# A-Team Sanitärtechnik GmbH Website
 
-Kompakte, hochwertige Website für die A-Team SanitÃ¤rtechnik GmbH in Oberhausen. Fokus auf klare Leistungen, strukturierte Projektführung und eine saubere Kontaktstrecke.
+Kompakte, hochwertige Website fÃ¼r A-Team Sanitärtechnik GmbH in Oberhausen. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
 
 ## Seiten
-- `index.html` Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
-- `impressum.html` Rechtliche Angaben
-- `datenschutz.html` Datenschutzerklärung
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
+- impressum.html Rechtliche Angaben
+- datenschutz.html DatenschutzerklÃ¤rung
 
 ## Hinweise
-- Logo und OG-Bild sind aus öffentlich verfügbaren Quellen eingebunden.
-- Inhalte sind bewusst allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://www.a-team-gmbh-oberhausen.de/
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Oberhausen

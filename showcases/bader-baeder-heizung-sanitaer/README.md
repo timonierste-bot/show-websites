@@ -1,1 +1,17 @@
-﻿# Bader - Bäder, Heizung, Sanitär  Preview-Projekt fuer Nierste Distribution.  ## Status  - Aktion: Preview vorbereiten - Phase: Platzhalter angelegt - Typ: Top-100-Preview  ## Quelle  - `03_Marketing/Nierste_Akquise_Liste.xlsx` - Blatt: `Top Preview 100` - Prioritaet: `83` - Score: `75` - Kategorie: `B`  ## Kontext  - Ort: `Herne` - Aktivitaet: `aktiv bestätigt` - Website oder Quelle: `https://www.bader-heizungsanitaer.de/`  ## Ziel  Diese Vorschau soll einen klareren, moderneren und vertrauensstaerkeren Erstauftritt vorbereiten.  ## Naechste Schritte  1. Bestehenden Auftritt oder Referenzen pruefen 2. Preview-Struktur im Projektordner aufbauen 3. Kontaktweg und Vertrauenselemente ausarbeiten 4. Bei Bedarf als Kundenvorschau versenden
+# Bader - Bäder, Heizung, Sanitär Website
+
+Kompakte, hochwertige Website fÃ¼r Bader - Bäder, Heizung, Sanitär in Herne. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
+
+## Seiten
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
+- impressum.html Rechtliche Angaben
+- datenschutz.html DatenschutzerklÃ¤rung
+
+## Hinweise
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://www.bader-heizungsanitaer.de/
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Herne

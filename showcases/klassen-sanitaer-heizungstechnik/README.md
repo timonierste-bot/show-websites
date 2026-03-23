@@ -1,16 +1,17 @@
-# KlaÃŸen SanitÃ¤r & Heizungstechnik e.K. Website
+# Klaßen Sanitär & Heizungstechnik e.K. Website
 
-Kundenfertige Vorschau fÃ¼r KlaÃŸen SanitÃ¤r & Heizungstechnik e.K. in Duisburg. Die Seite zeigt die bestehende Website in einer deutlich klareren, hochwertigeren und verkaufsstÃ¤rkeren Form.
+Kompakte, hochwertige Website fÃ¼r Klaßen Sanitär & Heizungstechnik e.K. in Duisburg. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
 
 ## Seiten
-- index.html Startseite mit Hero, Leistungen, Vertrauen und Kontakt
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
 - impressum.html Rechtliche Angaben
-- datenschutz.html Datenschutzhinweise
-
-## Quelle
-- Original: https://heizungstechnik-duisburg.de/
-- Fokus: Klarer Fachbetrieb mit regionalem Bezug und gutem Potenzial fÃ¼r eine hochwertige Neukomposition.
+- datenschutz.html DatenschutzerklÃ¤rung
 
 ## Hinweise
-- Die Vorschau ist fÃ¼r WhatsApp, Mail und PrÃ¤sentation gedacht.
-- Die finale Live-Version wird bei Bedarf auf den Kunden weiter angepasst.
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://heizungstechnik-duisburg.de/
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Duisburg

@@ -1,12 +1,17 @@
-﻿# Temeltas Sanitär-Heizung-Klima Website
+# Temeltas Sanitär-Heizung-Klima Website
 
-Kompakte, hochwertige Website fÃƒÂ¼r die Temeltas GmbH in Witten. Fokus auf klare Leistungen, strukturierte ProjektfÃƒÂ¼hrung und eine saubere Kontaktstrecke.
+Kompakte, hochwertige Website fÃ¼r Temeltas Sanitär-Heizung-Klima in Witten. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
 
 ## Seiten
-- `index.html` Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
-- `impressum.html` Rechtliche Angaben
-- `datenschutz.html` DatenschutzerklÃƒÂ¤rung
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
+- impressum.html Rechtliche Angaben
+- datenschutz.html DatenschutzerklÃ¤rung
 
 ## Hinweise
-- Logo und OG-Bild sind aus ÃƒÂ¶ffentlich verfÃƒÂ¼gbaren Quellen eingebunden.
-- Inhalte sind bewusst allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://temeltas-shk.de/
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Witten

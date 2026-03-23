@@ -1,1 +1,23 @@
-﻿# Wools Heizungs- und Sanitärtechnik - Handoff  ## Status  - Preview vorbereiten - Projekt ist lokal angelegt und wartet auf den eigentlichen Aufbau  ## Kontext  - Quelle: Akquise-Liste in `03_Marketing` - Prioritaet: `59` - Score: `79` - Kategorie: `B` - Ort: `Duisburg` - Website: `https://adresse.dastelefonbuch.de/Duisburg/2-Sanit%C3%A4r-Wools-Heizungs-und-Sanit%C3%A4rtechnik-Duisburg-Wegnerstr.html`  ## Noch offen  - Bestehenden Auftritt oder Referenzen pruefen - Preview-Struktur bauen - Texte, CTA und Kontaktfuehrung schaerfen  ## Naechster sinnvoller Schritt  1. Bestehende Website oder andere Referenzen ermitteln 2. Preview im Projektordner aufbauen 3. Versand oder internen Review vorbereiten
+# Wools Heizungs- und Sanitärtechnik - Handoff
+
+## Status
+
+- Preview vorbereitet
+- VollstÃ¤ndige Vorschau fÃ¼r die Kundenerstansicht
+
+## Kontext
+
+- Ort: Duisburg
+- Fokus: Haustechnik
+- Quelle: https://adresse.dastelefonbuch.de/Duisburg/2-Sanit%C3%A4r-Wools-Heizungs-und-Sanit%C3%A4rtechnik-Duisburg-Wegnerstr.html
+- Preview-Typ: Lead-Gen Preview
+
+## Noch offen
+
+- Falls die Vorschau live Ã¼bernommen wird, mÃ¼ssen reale Kontaktdaten, Rechtsangaben und ggf. Bildrechte vor Livegang geprÃ¼ft werden.
+
+## NÃ¤chster sinnvoller Schritt
+
+1. Vorschau intern / mit dem Kunden abstimmen
+2. Texte, Bilder und Kontaktangaben bei Bedarf finalisieren
+3. Vor Livegang Impressum und Datenschutz mit echten Unternehmensdaten schÃ¤rfen

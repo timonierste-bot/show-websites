@@ -1,1 +1,17 @@
-# PAUWELS Website  Kundenfertige Vorschau für PAUWELS in Waltrop. Die Seite zeigt die bestehende Website in einer deutlich klareren, hochwertigeren und verkaufsstürkeren Form.  ## Seiten - index.html Startseite mit Hero, Leistungen, Vertrauen und Kontakt - impressum.html Rechtliche Angaben - datenschutz.html Datenschutzhinweise  ## Quelle - Original: https://www.pauwelsshk.de/ - Fokus: Frischer, moderner Meisterbetrieb mit gutem Hebel für eine edlere Außendarstellung.  ## Hinweise - Die Vorschau ist für WhatsApp, Mail und Prüsentation gedacht. - Die finale Live-Version wird bei Bedarf auf den Kunden weiter angepasst.
+# PAUWELS Website
+
+Kompakte, hochwertige Website fÃ¼r PAUWELS in Waltrop. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
+
+## Seiten
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
+- impressum.html Rechtliche Angaben
+- datenschutz.html DatenschutzerklÃ¤rung
+
+## Hinweise
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://www.pauwelsshk.de/
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Waltrop

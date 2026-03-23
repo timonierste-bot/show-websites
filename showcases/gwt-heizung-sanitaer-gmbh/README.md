@@ -1,16 +1,17 @@
-# GWT Heizung Sanitär GmbH – Preview
+# GWT Heizung Sanitär GmbH Website
 
-Premium-Preview für einen SHK-Betrieb in Bochum mit klarer Lead-Ansprache, lokalem Bezug und strukturierter Kontaktführung.
+Kompakte, hochwertige Website fÃ¼r GWT Heizung Sanitär GmbH in Bochum. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
 
 ## Seiten
-- `index.html` – Startseite
-- `impressum.html`
-- `datenschutz.html`
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
+- impressum.html Rechtliche Angaben
+- datenschutz.html DatenschutzerklÃ¤rung
 
-## Anpassungen
-- Rechtliche Angaben ergänzen (Adresse, Kontakt).
-- Kontaktformular auf gewünschte Zustellung umstellen.
-- Bilder/Referenzen einpflegen, falls vorhanden.
+## Hinweise
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://www.vwt-bochum.de/
 
-## Technik
-Statische HTML/CSS/JS-Dateien, deploybar auf GitHub Pages oder Cloudflare Pages.
+## Kontext
+- Fokus: Haustechnik
+- Ort: Bochum

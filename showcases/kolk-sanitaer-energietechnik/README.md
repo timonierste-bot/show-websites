@@ -1,12 +1,17 @@
-# Kolk SanitÃ¤r- und Energietechnik GmbH Website
+# Kolk Sanitär- und Energietechnik GmbH Website
 
-Kompakte, hochwertige Website für die Kolk SanitÃ¤r- und Energietechnik GmbH in Gelsenkirchen. Fokus auf klare Leistungen, strukturierte Projektführung und eine saubere Kontaktstrecke.
+Kompakte, hochwertige Website fÃ¼r Kolk Sanitär- und Energietechnik GmbH in Gelsenkirchen. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
 
 ## Seiten
-- `index.html` Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
-- `impressum.html` Rechtliche Angaben
-- `datenschutz.html` Datenschutzerklärung
+- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
+- impressum.html Rechtliche Angaben
+- datenschutz.html DatenschutzerklÃ¤rung
 
 ## Hinweise
-- Logo und OG-Bild sind aus öffentlich verfügbaren Quellen eingebunden.
-- Inhalte sind bewusst allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Die Vorschau ist bewusst als Konzeptvorschau markiert.
+- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
+- Quelle / Referenz: https://kolk.de/
+
+## Kontext
+- Fokus: Haustechnik
+- Ort: Gelsenkirchen
