@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Konzeptvorschau für AK-Metall & Stahlbau">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0e1622"/>
+      <stop offset="55%" stop-color="#132232"/>
+      <stop offset="100%" stop-color="#2a3d52"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#d7a36a"/>
+      <stop offset="100%" stop-color="#ffcf9c"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="26" flood-color="#000" flood-opacity=".35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="990" cy="120" r="210" fill="#ffffff" opacity=".05"/>
+  <circle cx="180" cy="670" r="170" fill="#ffffff" opacity=".04"/>
+  <path d="M0 610h1200" stroke="url(#accent)" stroke-opacity=".22" stroke-width="2"/>
+  <path d="M120 150 1060 620" stroke="#fff" stroke-opacity=".08" stroke-width="18" stroke-linecap="round"/>
+  <path d="M120 210 980 700" stroke="#fff" stroke-opacity=".05" stroke-width="8" stroke-linecap="round"/>
+  <g filter="url(#shadow)">
+    <rect x="90" y="110" width="600" height="430" rx="34" fill="#111b29" stroke="#ffffff" stroke-opacity=".08"/>
+    <rect x="125" y="145" width="260" height="18" rx="9" fill="url(#accent)"/>
+    <rect x="125" y="188" width="390" height="10" rx="5" fill="#fff" opacity=".26"/>
+    <rect x="125" y="216" width="510" height="10" rx="5" fill="#fff" opacity=".18"/>
+    <rect x="125" y="244" width="440" height="10" rx="5" fill="#fff" opacity=".18"/>
+    <rect x="125" y="334" width="330" height="18" rx="9" fill="#fff" opacity=".12"/>
+    <rect x="125" y="374" width="470" height="12" rx="6" fill="#fff" opacity=".18"/>
+    <rect x="125" y="404" width="410" height="12" rx="6" fill="#fff" opacity=".14"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="760" y="210" width="340" height="280" rx="30" fill="#f3efe8" opacity=".97"/>
+    <path d="M820 410h205c18 0 34 10 40 25h-285c6-15 22-25 40-25z" fill="#7b8794" opacity=".7"/>
+    <path d="M835 384c16-55 63-92 125-92 63 0 109 37 125 92" fill="none" stroke="#7b8794" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="872" cy="420" r="34" fill="#0d1520"/>
+    <circle cx="1043" cy="420" r="34" fill="#0d1520"/>
+    <circle cx="872" cy="420" r="16" fill="#d7a36a"/>
+    <circle cx="1043" cy="420" r="16" fill="#d7a36a"/>
+  </g>
+  <text x="92" y="656" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing=".06em">KONZEPTVORSCHAU</text>
+  <text x="92" y="708" fill="#fff" opacity=".74" font-family="Segoe UI, Arial, sans-serif" font-size="22">AK-Metall &amp; Stahlbau · neutrale Platzhaltergrafik</text>
+</svg>

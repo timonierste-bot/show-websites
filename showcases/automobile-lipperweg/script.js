@@ -1,111 +1,111 @@
 const STOCK_URL = "./data/stock.json";
-const MOBILE_PROFILE = "https://home.mobile.de/AUTOMOBILELIPPERWEGMARL";
+const MOBILE_PROFILE = "./kontakt.html";
 
 const STOCK_DATA = [
   {
-    id: "golf-sportsvan",
+    id: "konzept-01",
     brand: "Volkswagen",
-    title: "Volkswagen Golf Sportsvan VII Highline 1.4 | ACC | Pano | Bi-Xeno",
+    title: "Volkswagen Konzeptfahrzeug 01 | Komfortpaket | Panorama",
     price: 12500,
     mileage: "151.000 km",
     firstRegistration: "12/2015",
     power: "92 kW (125 PS)",
     fuel: "Benzin",
     transmission: "Schaltgetriebe",
-    badge: "Unfallfrei",
-    image: "https://img.classistatic.de/api/v1/mo-prod/images/c8/c8233576-bb4c-448d-b605-a20ced4bb292?rule=mo-1600",
+    badge: "Konzept",
+    image: "./images/preview-stock.svg",
     description:
-      "Komfortabler Kompaktvan mit Highline-Ausstattung, Panoramadach und klarer mobile.de-Präsenz. Ideal als vielseitiges Familienfahrzeug mit hochwertiger Anmutung.",
+      "Beispiel für einen komfortablen Kompaktvan mit ruhiger Präsentation und klarer Bestandslogik.",
   },
   {
-    id: "beetle-sport",
+    id: "konzept-02",
     brand: "Volkswagen",
-    title: "Volkswagen Beetle Sport 2.0 | Bi-Xenon | Fender | TurboBlack | 8x",
+    title: "Volkswagen Konzeptfahrzeug 02 | Sport & Styling",
     price: 11499,
     mileage: "137.000 km",
     firstRegistration: "04/2013",
     power: "147 kW (200 PS)",
     fuel: "Benzin",
     transmission: "Schaltgetriebe",
-    badge: "Unfallfrei",
-    image: "https://img.classistatic.de/api/v1/mo-prod/images/1c/1c0b8a31-11b7-413a-9e09-35bb07fdc71c?rule=mo-1600",
+    badge: "Beispiel",
+    image: "./images/preview-stock.svg",
     description:
-      "Charakterstarker Beetle Sport mit starken Ausstattungsdetails und emotionalem Auftritt. Perfekt für eine aufmerksamkeitsstarke Händlerpräsentation.",
+      "Emotionales Konzeptfahrzeug mit auffälliger Silhouette und klarer Händlerpräsentation.",
   },
   {
-    id: "hyundai-veloster",
+    id: "konzept-03",
     brand: "Hyundai",
-    title: "Hyundai Veloster Style 1.6 | CarPlay | AndroidAuto | 8xbereift",
+    title: "Hyundai Konzeptfahrzeug 03 | Connectivity",
     price: 7299,
     mileage: "124.000 km",
     firstRegistration: "12/2012",
     power: "103 kW (140 PS)",
     fuel: "Benzin",
     transmission: "Schaltgetriebe",
-    badge: "TÜV und Service neu",
-    image: "https://img.classistatic.de/api/v1/mo-prod/images/47/4712ea86-222c-4ff1-8abe-67dba2495d42?rule=mo-1600",
+    badge: "Ausstattung",
+    image: "./images/preview-stock.svg",
     description:
-      "Auffälliger, moderner Einstieg in die Bestandslogik mit Android Auto, CarPlay und frischem Servicepaket.",
+      "Moderner Einstieg in die Bestandslogik mit klarer Bedienung und konzentrierter Präsentation.",
   },
   {
-    id: "mazda-2",
+    id: "konzept-04",
     brand: "Mazda",
-    title: "Mazda 2 Lim. Kizoku 1.5 | LED | Lane | DAB | Tempomat | 8Fach",
+    title: "Mazda Konzeptfahrzeug 04 | Licht & Assistenz",
     price: 12999,
     mileage: "45.000 km",
     firstRegistration: "09/2017",
     power: "66 kW (90 PS)",
     fuel: "Benzin",
     transmission: "Schaltgetriebe",
-    badge: "Unfallfrei",
-    image: "https://img.classistatic.de/api/v1/mo-prod/images/11/11e8d345-7828-4211-8088-26161d8befd8?rule=mo-1600",
+    badge: "Kompakt",
+    image: "./images/preview-stock.svg",
     description:
-      "Sehr gepflegter Kleinwagen mit niedriger Laufleistung und starker Ausstattung. Ideal für einen wertigen Bestands-Hotspot.",
+      "Kompaktes Beispiel für einen gepflegten Einstieg mit klarer Bestandswirkung.",
   },
   {
-    id: "renault-clio",
+    id: "konzept-05",
     brand: "Renault",
-    title: "Renault Clio 1.2 16V 75 Life | DAB | Bluetooth | Allwetter",
+    title: "Renault Konzeptfahrzeug 05 | Alltag",
     price: 5499,
     mileage: "133.000 km",
     firstRegistration: "11/2016",
     power: "54 kW (73 PS)",
     fuel: "Benzin",
     transmission: "Schaltgetriebe",
-    badge: "HU neu",
-    image: "https://img.classistatic.de/api/v1/mo-prod/images/b2/b239aacd-a6c2-4955-8f53-d94e4108cfd7?rule=mo-1600",
+    badge: "Einstieg",
+    image: "./images/preview-stock.svg",
     description:
-      "Preislich zugänglicher, sauber präsentierter Kleinwagen mit klarer Alltagsorientierung und guter Vertrauenswirkung.",
+      "Preislich zugängliches Konzeptfahrzeug mit klarer Alltagsorientierung.",
   },
   {
-    id: "bmw-320i",
+    id: "konzept-06",
     brand: "BMW",
-    title: "BMW 320i Touring | LPG | AHK | Panorama",
+    title: "BMW Konzeptfahrzeug 06 | Touring",
     price: 1799,
     mileage: "209.000 km",
     firstRegistration: "09/2006",
     power: "110 kW (150 PS)",
     fuel: "Benzin",
     transmission: "Schaltgetriebe",
-    badge: "Preis-Einstieg",
-    image: "https://img.classistatic.de/api/v1/mo-prod/images/88/881a10d2-bfe8-4a33-b8c0-b876dcac4fa3?rule=mo-1600",
+    badge: "Portfolio",
+    image: "./images/preview-stock.svg",
     description:
-      "Günstiger Touring als Bestandsbeispiel für Reichweite und Vielfalt im Händlerportfolio.",
+      "Touring-Konzept mit Fokus auf Reichweite und Vielfalt im Händlerportfolio.",
   },
   {
-    id: "vw-lupo",
+    id: "konzept-07",
     brand: "Volkswagen",
-    title: "Volkswagen Lupo 1.0 Cambridge | Panorama | CarPlay | AndroidAuto",
+    title: "Volkswagen Konzeptfahrzeug 07 | Kompakt",
     price: 1999,
     mileage: "232.000 km",
     firstRegistration: "03/2002",
     power: "37 kW (50 PS)",
     fuel: "Benzin",
     transmission: "Schaltgetriebe",
-    badge: "Kompakt",
-    image: "https://img.classistatic.de/api/v1/mo-prod/images/cd/cdf12e99-b722-4711-a765-fcfa54ce8339?rule=mo-1600",
+    badge: "Einstieg",
+    image: "./images/preview-stock.svg",
     description:
-      "Kompakter Einstieg mit moderner Connectivity und starkem Preisanker für die Website-Inszenierung.",
+      "Kompakter Einstieg mit klarer Präsentation und starkem Preisanker.",
   },
 ];
 
@@ -220,37 +220,79 @@ function formatPrice(value) {
   }).format(value);
 }
 
+function appendTextElement(parent, tag, text, className = "") {
+  const element = document.createElement(tag);
+  if (className) element.className = className;
+  element.textContent = text;
+  parent.appendChild(element);
+  return element;
+}
+
+function appendSpecRow(parent, label, value) {
+  const wrapper = document.createElement("div");
+  const dt = document.createElement("dt");
+  const dd = document.createElement("dd");
+  dt.textContent = label;
+  dd.textContent = value;
+  wrapper.append(dt, dd);
+  parent.appendChild(wrapper);
+}
+
 function createVehicleCard(vehicle) {
   const card = document.createElement("article");
   card.className = "vehicle-card reveal";
   card.dataset.brand = vehicle.brand;
 
-  card.innerHTML = `
-    <div class="vehicle-media">
-      <img src="${vehicle.image}" alt="${vehicle.title}" loading="lazy" />
-      <div class="vehicle-badges">
-        <span class="vehicle-badge">${vehicle.brand}</span>
-        <span class="vehicle-badge">${vehicle.badge}</span>
-      </div>
-    </div>
-    <div class="vehicle-body">
-      <p class="vehicle-kicker">High-Signal Inventory</p>
-      <h3>${vehicle.title}</h3>
-      <p class="vehicle-price">${formatPrice(vehicle.price)}</p>
-      <dl class="vehicle-specs">
-        <div><dt>EZ</dt><dd>${vehicle.firstRegistration}</dd></div>
-        <div><dt>KM</dt><dd>${vehicle.mileage}</dd></div>
-        <div><dt>Leistung</dt><dd>${vehicle.power}</dd></div>
-        <div><dt>Kraftstoff</dt><dd>${vehicle.fuel}</dd></div>
-      </dl>
-      <div class="vehicle-actions">
-        <button class="button button-primary" type="button" data-open-modal>Details</button>
-        <a class="button button-secondary" href="${MOBILE_PROFILE}" target="_blank" rel="noreferrer">mobile.de</a>
-      </div>
-    </div>
-  `;
+  const media = document.createElement("div");
+  media.className = "vehicle-media";
 
-  card.querySelector("[data-open-modal]").addEventListener("click", () => openModal(vehicle));
+  const image = document.createElement("img");
+  image.src = vehicle.image;
+  image.alt = vehicle.title;
+  image.loading = "lazy";
+  media.appendChild(image);
+
+  const badges = document.createElement("div");
+  badges.className = "vehicle-badges";
+  appendTextElement(badges, "span", vehicle.brand, "vehicle-badge");
+  appendTextElement(badges, "span", vehicle.badge, "vehicle-badge");
+  media.appendChild(badges);
+
+  const body = document.createElement("div");
+  body.className = "vehicle-body";
+  appendTextElement(body, "p", "High-Signal Inventory", "vehicle-kicker");
+  appendTextElement(body, "h3", vehicle.title);
+  appendTextElement(body, "p", formatPrice(vehicle.price), "vehicle-price");
+
+  const specs = document.createElement("dl");
+  specs.className = "vehicle-specs";
+  appendSpecRow(specs, "EZ", vehicle.firstRegistration);
+  appendSpecRow(specs, "KM", vehicle.mileage);
+  appendSpecRow(specs, "Leistung", vehicle.power);
+  appendSpecRow(specs, "Kraftstoff", vehicle.fuel);
+  body.appendChild(specs);
+
+  const actions = document.createElement("div");
+  actions.className = "vehicle-actions";
+
+  const detailsButton = document.createElement("button");
+  detailsButton.className = "button button-primary";
+  detailsButton.type = "button";
+  detailsButton.dataset.openModal = "";
+  detailsButton.textContent = "Details";
+  detailsButton.addEventListener("click", () => openModal(vehicle));
+
+  const profileLink = document.createElement("a");
+  profileLink.className = "button button-secondary";
+  profileLink.href = MOBILE_PROFILE;
+  profileLink.target = "_blank";
+  profileLink.rel = "noreferrer";
+  profileLink.textContent = "Weitere Infos";
+
+  actions.append(detailsButton, profileLink);
+  body.appendChild(actions);
+
+  card.append(media, body);
 
   return card;
 }
@@ -260,7 +302,7 @@ function renderStock(target, limit = null) {
 
   const items = state.stock.filter((item) => state.filter === "all" || item.brand === state.filter);
   const visible = limit ? items.slice(0, limit) : items;
-  target.innerHTML = "";
+  target.replaceChildren();
 
   visible.forEach((vehicle, index) => {
     const card = createVehicleCard(vehicle);
@@ -283,14 +325,13 @@ function openModal(vehicle) {
   dialog.querySelector("[data-modal-description]").textContent = vehicle.description;
 
   const specs = dialog.querySelector("[data-modal-specs]");
-  specs.innerHTML = `
-    <div><dt>EZ</dt><dd>${vehicle.firstRegistration}</dd></div>
-    <div><dt>KM</dt><dd>${vehicle.mileage}</dd></div>
-    <div><dt>Leistung</dt><dd>${vehicle.power}</dd></div>
-    <div><dt>Getriebe</dt><dd>${vehicle.transmission}</dd></div>
-    <div><dt>Kraftstoff</dt><dd>${vehicle.fuel}</dd></div>
-    <div><dt>Status</dt><dd>${vehicle.badge}</dd></div>
-  `;
+  specs.replaceChildren();
+  appendSpecRow(specs, "EZ", vehicle.firstRegistration);
+  appendSpecRow(specs, "KM", vehicle.mileage);
+  appendSpecRow(specs, "Leistung", vehicle.power);
+  appendSpecRow(specs, "Getriebe", vehicle.transmission);
+  appendSpecRow(specs, "Kraftstoff", vehicle.fuel);
+  appendSpecRow(specs, "Status", vehicle.badge);
 
   if (typeof dialog.showModal === "function") {
     dialog.showModal();
