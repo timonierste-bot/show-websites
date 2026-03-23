@@ -14,17 +14,17 @@ Dieser Bereich ist die zentrale Arbeitsflaeche fuer:
 ## Startstruktur
 
 - `showcases/` Beispiel-Websites und wiederverwendbare Muster
+- `sonderprojekte/` individuelle Vorschauen ausserhalb der Top-100-Referenz
 - `offers/` Angebotsvorlagen und kundenspezifische Entwuerfe
 - `briefings/` Briefings, Frageboegen und Discovery-Unterlagen
 - `docs/` Kontext, Regeln und Projektwissen
 - `assets/` wiederverwendbare Marken- und Medienbausteine
 
-## Aktuelle Preview-Projekte
+## Aktuelle Projektlogik
 
-- `showcases/dieter-schnabel-gmbh`
-- `showcases/haustechnik-erken`
-- `showcases/grosse-buening`
-- `showcases/paul-vilimek-gmbh`
+- `showcases/` bildet die Referenz fuer die `Top Preview 100`
+- `sonderprojekte/` enthaelt individuelle Kundenvorschauen und Sonderfaelle
+- die kanonische Soll-Ist-Liste liegt in `../100_Preview_System/preview-master-index.md`
 
 ## Was hier nicht mehr liegt
 
