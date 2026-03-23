@@ -1,4 +1,4 @@
-﻿# Website-Funktionsbeschreibungen
+# Website-Funktionsbeschreibungen
 
 ## Nierste Distribution
 
@@ -9,32 +9,9 @@ Die neue Nierste-Seite ist als hochwertige Vertriebs- und Akquise-Website für K
 - klarer Hero mit Vorher/Nachher-Vorschau
 - Vergleichsseite für die alte und neue Qualitätsstufe
 - Leistungs-, Prozess-, Preis- und FAQ-Bereich
-- Showcase-Sektion mit Becker Bedachungen, AK Metall & Stahlbau, Automobile Lipperweg, Dieter Schnabel GmbH, Große Büning, Haustechnik Erken und Paul Vilimek GmbH
+- Showcase-Sektion mit AK Metall & Stahlbau, Automobile Lipperweg, Dieter Schnabel GmbH, Große Büning, Haustechnik Erken und Paul Vilimek GmbH
 - Kontaktstrecke mit direkter Anfrageführung
 - öffentliche Showcase-Übersicht für verschickbare Vorschauen
-
-## Becker Bedachungen
-
-Die Website ist als moderner Handwerksauftritt für Dachdecker- und Sanierungsleistungen aufgebaut. Sie verbindet eine klare Positionierung mit Projektbeispielen, Leistungsseiten und einer einfachen Kontaktstrecke für Rückruf- oder Angebotsanfragen.
-
-### Funktionen
-
-- Startseite mit regionaler Vertrauenswirkung und klarer Hero-Botschaft
-- Leistungsseite für strukturierte Angebotsdarstellung
-- Projektseite für Referenzen und Vertrauensaufbau
-- Kontaktseite mit direkter Anfrageführung
-- mobile Optimierung und klare Conversion-Führung
-
-## Dieter Schnabel GmbH
-
-Die neue Vorschau für Dieter Schnabel GmbH ordnet die Heizungs- und Sanitärleistungen ruhiger, hochwertiger und verkaufsstärker. Sie zeigt den Betrieb als klareren Ansprechpartner mit besserer Vorher / Nachher-Darstellung und echten Bildern aus dem Betrieb.
-
-### Funktionen
-
-- Heizungs- und Sanitärvorschau mit hochwertigerer Ordnung
-- Vergleichsseite für den alten und neuen Auftritt
-- Kontakt- und Leistungsführung in ruhiger Premium-Optik
-- echte Bildwelt statt nur erklärender Texte
 
 ## AK Metall & Stahlbau
 
