@@ -1,4 +1,4 @@
-﻿# Preview Status Overview
+# Preview Status Overview
 
 ## Stand
 

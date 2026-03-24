@@ -3,7 +3,7 @@
 ## Status
 
 - Preview vorbereitet
-- VollstÃ¤ndige Vorschau fÃ¼r die Kundenerstansicht
+- Vollständige Vorschau für die Kundenerstansicht
 
 ## Kontext
 
@@ -14,10 +14,10 @@
 
 ## Noch offen
 
-- Falls die Vorschau live Ã¼bernommen wird, mÃ¼ssen reale Kontaktdaten, Rechtsangaben und ggf. Bildrechte vor Livegang geprÃ¼ft werden.
+- Falls die Vorschau live übernommen wird, müssen reale Kontaktdaten, Rechtsangaben und ggf. Bildrechte vor Livegang geprüft werden.
 
-## NÃ¤chster sinnvoller Schritt
+## Nächster sinnvoller Schritt
 
 1. Vorschau intern / mit dem Kunden abstimmen
 2. Texte, Bilder und Kontaktangaben bei Bedarf finalisieren
-3. Vor Livegang Impressum und Datenschutz mit echten Unternehmensdaten schÃ¤rfen
+3. Vor Livegang Impressum und Datenschutz mit echten Unternehmensdaten schärfen

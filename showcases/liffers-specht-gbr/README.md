@@ -1,11 +1,11 @@
 # Liffers & Specht GbR Website
 
-Kompakte, hochwertige Website fÃ¼r Liffers & Specht GbR in Schwerte. Fokus auf klare Leistungen, strukturierte ProjektfÃ¼hrung und eine saubere Kontaktstrecke.
+Kompakte, hochwertige Website für Liffers & Specht GbR in Schwerte. Fokus auf klare Leistungen, strukturierte Projektführung und eine saubere Kontaktstrecke.
 
 ## Seiten
 - index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
 - impressum.html Rechtliche Angaben
-- datenschutz.html DatenschutzerklÃ¤rung
+- datenschutz.html Datenschutzerklärung
 
 ## Hinweise
 - Die Vorschau ist bewusst als Konzeptvorschau markiert.

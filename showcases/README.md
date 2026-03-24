@@ -1,4 +1,4 @@
-﻿# Top-100-Showcases
+# Top-100-Showcases
 
 Dieser Ordner enthaelt die Referenzprojekte aus der Liste `Top Preview 100`.
 

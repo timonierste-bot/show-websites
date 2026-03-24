@@ -1,4 +1,4 @@
-﻿# Sonderprojekte
+# Sonderprojekte
 
 Dieser Ordner enthaelt Preview- oder Showcase-Projekte, die bewusst **nicht** zur Referenzliste Top Preview 100 gehoeren.
 
