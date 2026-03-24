@@ -2,22 +2,36 @@
 
 ## Status
 
-- Preview vorbereitet
-- Vollständige Vorschau für die Kundenerstansicht
+- Versendbare Premium-Vorschau für den schwächeren Muth-Kandidaten
+- Ziel: eine deutlich bessere Außenwirkung als die alte IONOS/MyWebsite-Seite
 
-## Kontext
+## Was die Vorschau zeigt
+
+- moderne, dunklere Haustechnik-Optik
+- echte Kerndaten aus dem öffentlichen Live-Kontext
+- klare Leistungsführung für Heizung, Sanitär, Solar und Notdienst
+- rechtlich vorsichtige Preview-Kennzeichnung
+
+## Datenbasis
 
 - Ort: Dinslaken
-- Fokus: Haustechnik
-- Quelle: https://www.j-muth-oberhausen.de/
-- Preview-Typ: Lead-Gen Preview
+- Firma: J.Muth UG (haftungsbeschränkt)
+- Anschrift: Hedwigstr. 51, 46537 Dinslaken
+- Telefon: 02064 829 895
+- Fax: 02064 829 896
+- Notdienst: 0171 4078719
+- E-Mail: info@jmuth-ug.de
+- Registergericht: Amtsgericht Duisburg
+- HRB: 27547
 
-## Noch offen
+## Noch offen vor einem Livegang
 
-- Falls die Vorschau live übernommen wird, müssen reale Kontaktdaten, Rechtsangaben und ggf. Bildrechte vor Livegang geprüft werden.
+- finale Prüfung der rechtlichen Pflichttexte
+- endgültige Freigabe von Text, Bildsprache und Kontaktweg durch den Kunden
+- technische Umstellung auf den späteren echten Host
 
 ## Nächster sinnvoller Schritt
 
-1. Vorschau intern / mit dem Kunden abstimmen
-2. Texte, Bilder und Kontaktangaben bei Bedarf finalisieren
-3. Vor Livegang Impressum und Datenschutz mit echten Unternehmensdaten schärfen
+1. Vorschau intern oder mit dem Kunden abstimmen
+2. Bei Gefallen als echte Kundenseite finalisieren
+3. Für den Livegang Impressum, Datenschutz und Formularweg noch einmal sauber prüfen
