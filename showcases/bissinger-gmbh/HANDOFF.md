@@ -2,22 +2,30 @@
 
 ## Status
 
-- Preview vorbereitet
-- Vollständige Vorschau für die Kundenerstansicht
+- Premium-Vorschau fertiggestellt
+- Mit echten Bild- und Logo-Assets aus dem Live-Auftritt
+- Auf mobile und Desktop stark ausgerichtet
 
 ## Kontext
 
 - Ort: Recklinghausen
 - Fokus: Haustechnik
 - Quelle: https://www.bissinger-re.de/
-- Preview-Typ: Lead-Gen Preview
+- Preview-Typ: hochwertiger Verkaufsstand
+
+## Bereits eingebaut
+
+- heroartige Startseite mit hohem Wiedererkennungswert
+- Leistungen, Mehrwert, Ablauf, Notdienst, FAQ und Kontakt
+- rechtliche Seiten mit den aktuell bekannten Firmendaten
+- lokale Bildassets aus dem öffentlichen Auftritt
 
 ## Noch offen
 
-- Falls die Vorschau live übernommen wird, müssen reale Kontaktdaten, Rechtsangaben und ggf. Bildrechte vor Livegang geprüft werden.
+- Falls die Vorschau live übernommen wird, sollten finale Rechtstexte und eventuelle interne Details vor dem Livegang noch einmal geprüft werden.
 
 ## Nächster sinnvoller Schritt
 
-1. Vorschau intern / mit dem Kunden abstimmen
-2. Texte, Bilder und Kontaktangaben bei Bedarf finalisieren
-3. Vor Livegang Impressum und Datenschutz mit echten Unternehmensdaten schärfen
+1. Vorschau intern oder mit dem Kunden abstimmen
+2. Inhalte bei Bedarf noch stärker auf die tatsächliche Angebotslogik zuschneiden
+3. Vor Livegang Kontakt- und Rechtstexte final bestätigen

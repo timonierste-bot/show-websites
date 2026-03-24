@@ -1,17 +1,20 @@
-# Bissinger GmbH Website
+# Bissinger GmbH - Premium-Konzept
 
-Kompakte, hochwertige Website für Bissinger GmbH in Recklinghausen. Fokus auf klare Leistungen, strukturierte Projektführung und eine saubere Kontaktstrecke.
+Hochwertige Website-Vorschau für Bissinger GmbH in Recklinghausen. Der Fokus liegt auf einer deutlich stärkeren
+Positionierung, einer ruhigeren Premium-Optik und einem klaren Vertrauensaufbau für Sanitär, Heizung, Solartechnik
+und Notdienst.
 
 ## Seiten
-- index.html Startseite mit Leistungen, Mehrwert, Ablauf, FAQ und Kontakt
-- impressum.html Rechtliche Angaben
-- datenschutz.html Datenschutzerklärung
+- `index.html` Startseite mit Hero, Leistungen, Vertrauen, Ablauf, Notdienst, FAQ und Kontakt
+- `impressum.html` Rechtliche Angaben mit den aktuell bekannten Firmendaten
+- `datenschutz.html` Datenschutzhinweise für die Konzeptvorschau
 
-## Hinweise
-- Die Vorschau ist bewusst als Konzeptvorschau markiert.
-- Inhalte sind allgemein gehalten, um keine ungesicherten Fakten zu behaupten.
-- Quelle / Referenz: https://www.bissinger-re.de/
+## Bildquellen
+- Echte Bild- und Logo-Assets aus dem öffentlichen Live-Auftritt wurden lokal übernommen.
+- Die Vorschau bleibt dennoch als Konzept markiert und ist bewusst auf hohe visuelle Wirkung ausgelegt.
 
 ## Kontext
-- Fokus: Haustechnik
 - Ort: Recklinghausen
+- Fokus: Haustechnik
+- Referenz: [bissinger-re.de](https://www.bissinger-re.de/)
+- Typ: versandfähige Premium-Vorschau
