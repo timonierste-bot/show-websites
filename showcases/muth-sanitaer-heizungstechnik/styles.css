@@ -33,11 +33,7 @@ body {
   min-height: 100vh;
   font-family: "Segoe UI", "Aptos", system-ui, sans-serif;
   color: var(--text);
-  background:
-    radial-gradient(circle at 18% 14%, rgba(85, 183, 255, 0.2), transparent 18%),
-    radial-gradient(circle at 82% 12%, rgba(255, 191, 105, 0.16), transparent 16%),
-    radial-gradient(circle at 50% 88%, rgba(29, 211, 176, 0.1), transparent 22%),
-    linear-gradient(180deg, #061018 0%, #09131d 100%);
+  background: linear-gradient(180deg, #061018 0%, #09131d 100%);
   overflow-x: hidden;
   isolation: isolate;
 }
@@ -53,20 +49,14 @@ body::after {
 
 body::before {
   background:
-    conic-gradient(
-      from 180deg at 50% 50%,
-      rgba(85, 183, 255, 0) 0deg,
-      rgba(85, 183, 255, 0.2) 48deg,
-      rgba(29, 211, 176, 0.16) 120deg,
-      rgba(255, 191, 105, 0.18) 210deg,
-      rgba(85, 183, 255, 0.22) 320deg,
-      rgba(85, 183, 255, 0) 360deg
-    ),
-    radial-gradient(circle at center, rgba(8, 18, 28, 0) 0 47%, rgba(8, 18, 28, 0.18) 60%, rgba(8, 18, 28, 0.56) 100%);
-  filter: blur(84px) saturate(135%);
-  opacity: 0.88;
+    linear-gradient(180deg, rgba(4, 9, 15, 0.28), rgba(4, 9, 15, 0.74)),
+    linear-gradient(90deg, rgba(6, 16, 24, 0.82) 0%, rgba(6, 16, 24, 0.32) 38%, rgba(6, 16, 24, 0.78) 100%),
+    url("assets/muth-sanitaer-hero.jpg") center/cover no-repeat;
+  filter: saturate(112%) contrast(104%);
+  opacity: 0.5;
+  inset: -12vmax;
   transform-origin: 50% 50%;
-  animation: aurora-spin 32s linear infinite;
+  animation: hero-pan 22s ease-in-out infinite alternate;
 }
 
 body::after {
@@ -673,8 +663,8 @@ main {
   min-height: 520px;
   overflow: hidden;
   background:
-    radial-gradient(circle at 30% 24%, rgba(85, 183, 255, 0.2), transparent 32%),
-    radial-gradient(circle at 80% 78%, rgba(255, 191, 105, 0.12), transparent 26%),
+    linear-gradient(180deg, rgba(13, 24, 37, 0.4), rgba(8, 16, 25, 0.62)),
+    url("assets/muth-bad-detail.jpg") center/cover no-repeat,
     linear-gradient(180deg, rgba(13, 24, 37, 0.94), rgba(8, 16, 25, 0.95));
 }
 
@@ -683,7 +673,7 @@ main {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(180deg, rgba(4, 9, 15, 0.08), rgba(4, 9, 15, 0.45)),
+    linear-gradient(180deg, rgba(4, 9, 15, 0.14), rgba(4, 9, 15, 0.56)),
     radial-gradient(circle at var(--shine-x, 50%) var(--shine-y, 40%), rgba(255, 255, 255, 0.22), transparent 35%);
   z-index: 1;
   pointer-events: none;
@@ -1110,13 +1100,17 @@ main {
   --shine-y: 36%;
 }
 
-@keyframes aurora-spin {
-  from {
-    transform: rotate(0deg) scale(1.02);
+@keyframes hero-pan {
+  0% {
+    transform: translate3d(-2%, -1%, 0) scale(1.04);
   }
 
-  to {
-    transform: rotate(360deg) scale(1.1);
+  50% {
+    transform: translate3d(1.5%, 1.5%, 0) scale(1.09);
+  }
+
+  100% {
+    transform: translate3d(-1%, 2%, 0) scale(1.12);
   }
 }
 
