@@ -1,11 +1,11 @@
 :root {
   color-scheme: dark;
-  --bg: #061018;
-  --bg-2: #091724;
-  --panel: rgba(10, 18, 28, 0.84);
-  --panel-strong: rgba(13, 24, 37, 0.94);
-  --text: #f3f7fb;
-  --muted: #aab7c6;
+  --bg: #dfeaf2;
+  --bg-2: #edf4f8;
+  --panel: rgba(9, 24, 35, 0.76);
+  --panel-strong: rgba(10, 24, 36, 0.9);
+  --text: #f6fbff;
+  --muted: #d2dde8;
   --line: rgba(255, 255, 255, 0.1);
   --brand: #55b7ff;
   --brand-2: #1d7ddb;
@@ -33,7 +33,9 @@ body {
   min-height: 100vh;
   font-family: "Segoe UI", "Aptos", system-ui, sans-serif;
   color: var(--text);
-  background: linear-gradient(180deg, #0a1722 0%, #122433 100%);
+  background:
+    radial-gradient(circle at 12% 12%, rgba(129, 202, 255, 0.18), transparent 18%),
+    linear-gradient(180deg, #dfeaf2 0%, #d3e2eb 18%, #153040 58%, #0f2431 100%);
   overflow-x: hidden;
   isolation: isolate;
 }
@@ -49,25 +51,24 @@ body::after {
 
 body::before {
   background:
-    linear-gradient(180deg, rgba(8, 18, 28, 0.08), rgba(8, 18, 28, 0.5)),
-    linear-gradient(90deg, rgba(9, 23, 34, 0.58) 0%, rgba(9, 23, 34, 0.12) 38%, rgba(9, 23, 34, 0.46) 100%),
-    url("assets/muth-sanitaer-hero.jpg") center/cover no-repeat;
-  filter: saturate(118%) contrast(103%) brightness(1.08);
-  opacity: 0.72;
-  inset: -12vmax;
+    linear-gradient(180deg, rgba(255, 255, 255, 0.42), rgba(18, 41, 56, 0.22) 36%, rgba(12, 30, 42, 0.64) 100%),
+    linear-gradient(90deg, rgba(238, 246, 251, 0.66) 0%, rgba(238, 246, 251, 0.12) 34%, rgba(13, 33, 46, 0.48) 100%),
+    url("assets/muth-sanitaer-hero.jpg") right 5.5rem top 6rem / min(940px, 74vw) auto no-repeat;
+  filter: saturate(112%) contrast(101%) brightness(1.04);
+  opacity: 0.92;
+  inset: 0;
   transform-origin: 50% 50%;
-  animation: hero-pan 22s ease-in-out infinite alternate;
+  animation: hero-pan 18s ease-in-out infinite alternate;
 }
 
 body::after {
   background:
-    radial-gradient(circle at 18% 20%, rgba(124, 203, 255, 0.3), transparent 22%),
-    radial-gradient(circle at 76% 18%, rgba(255, 223, 176, 0.18), transparent 20%),
-    radial-gradient(circle at 62% 78%, rgba(109, 227, 205, 0.14), transparent 24%),
-    radial-gradient(circle at 28% 82%, rgba(124, 203, 255, 0.12), transparent 18%);
-  filter: blur(34px);
+    radial-gradient(circle at 18% 18%, rgba(134, 212, 255, 0.14), transparent 20%),
+    radial-gradient(circle at 74% 16%, rgba(255, 239, 207, 0.08), transparent 18%),
+    radial-gradient(circle at 64% 76%, rgba(109, 227, 205, 0.08), transparent 20%);
+  filter: blur(28px);
   mix-blend-mode: screen;
-  opacity: 0.62;
+  opacity: 0.46;
   animation: aurora-drift 18s ease-in-out infinite alternate;
 }
 
@@ -663,8 +664,8 @@ main {
   min-height: 520px;
   overflow: hidden;
   background:
-    linear-gradient(180deg, rgba(13, 24, 37, 0.12), rgba(8, 16, 25, 0.34)),
-    url("assets/muth-bad-detail.jpg") center/cover no-repeat,
+    linear-gradient(180deg, rgba(255, 255, 255, 0.08), rgba(8, 16, 25, 0.18)),
+    url("assets/muth-bad-detail.jpg") center 42% / min(560px, 96%) auto no-repeat,
     linear-gradient(180deg, rgba(13, 24, 37, 0.94), rgba(8, 16, 25, 0.95));
 }
 
@@ -673,8 +674,8 @@ main {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(180deg, rgba(4, 9, 15, 0.04), rgba(4, 9, 15, 0.3)),
-    radial-gradient(circle at var(--shine-x, 50%) var(--shine-y, 40%), rgba(255, 255, 255, 0.22), transparent 35%);
+    linear-gradient(180deg, rgba(255, 255, 255, 0.04), rgba(4, 9, 15, 0.18)),
+    radial-gradient(circle at var(--shine-x, 50%) var(--shine-y, 40%), rgba(255, 255, 255, 0.16), transparent 35%);
   z-index: 1;
   pointer-events: none;
 }
@@ -698,7 +699,7 @@ main {
   z-index: 2;
   padding: 1rem 1.05rem;
   border-radius: 20px;
-  background: rgba(7, 16, 24, 0.44);
+  background: rgba(7, 16, 24, 0.36);
   backdrop-filter: blur(20px);
   border: 1px solid rgba(255, 255, 255, 0.14);
 }
@@ -1102,15 +1103,15 @@ main {
 
 @keyframes hero-pan {
   0% {
-    transform: translate3d(-2%, -1%, 0) scale(1.04);
+    transform: translate3d(0, 0, 0) scale(1.01);
   }
 
   50% {
-    transform: translate3d(1.5%, 1.5%, 0) scale(1.09);
+    transform: translate3d(0.6%, 0.6%, 0) scale(1.03);
   }
 
   100% {
-    transform: translate3d(-1%, 2%, 0) scale(1.12);
+    transform: translate3d(-0.4%, 0.8%, 0) scale(1.02);
   }
 }
 
