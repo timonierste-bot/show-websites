@@ -51,12 +51,14 @@ body::after {
 
 body::before {
   background:
+    linear-gradient(180deg, rgba(246, 250, 252, 0.42), rgba(15, 35, 49, 0.18) 30%, rgba(12, 30, 42, 0.42) 62%, rgba(10, 24, 34, 0.56) 100%),
+    url("assets/muth-sanitaer-hero.jpg") right 4rem top 6rem / min(1120px, 78vw) auto no-repeat,
+    url("assets/muth-bad-detail.jpg") left 8% top 52rem / min(460px, 34vw) auto no-repeat,
     radial-gradient(circle at 14% 16%, rgba(154, 219, 255, 0.22), transparent 20%),
-    radial-gradient(circle at 78% 18%, rgba(255, 239, 214, 0.12), transparent 16%),
-    linear-gradient(180deg, rgba(255, 255, 255, 0.1), rgba(17, 42, 58, 0.18) 34%, rgba(12, 30, 42, 0.42) 100%);
+    radial-gradient(circle at 78% 18%, rgba(255, 239, 214, 0.12), transparent 16%);
   filter: none;
-  opacity: 0.85;
-  inset: -16vmax;
+  opacity: 0.96;
+  inset: 0;
   transform-origin: 50% 50%;
   animation: hero-pan 18s ease-in-out infinite alternate;
 }
@@ -257,6 +259,7 @@ main {
   overflow: hidden;
   border: 1px solid rgba(255, 255, 255, 0.12);
   box-shadow: var(--shadow);
+  backdrop-filter: blur(22px) saturate(118%);
 }
 
 .hero::before {
@@ -265,9 +268,8 @@ main {
   inset: 0;
   z-index: -2;
   background:
-    linear-gradient(90deg, rgba(242, 248, 252, 0.98) 0%, rgba(242, 248, 252, 0.92) 28%, rgba(242, 248, 252, 0.6) 48%, rgba(242, 248, 252, 0.12) 68%, rgba(12, 29, 41, 0.14) 100%),
-    linear-gradient(180deg, rgba(255, 255, 255, 0.14), rgba(12, 29, 41, 0.24)),
-    url("assets/muth-sanitaer-hero.jpg") right 2rem center / min(1040px, 76vw) auto no-repeat;
+    linear-gradient(90deg, rgba(242, 248, 252, 0.76) 0%, rgba(242, 248, 252, 0.68) 30%, rgba(242, 248, 252, 0.28) 50%, rgba(242, 248, 252, 0.06) 72%, rgba(12, 29, 41, 0.1) 100%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.1), rgba(12, 29, 41, 0.16));
 }
 
 .hero::after {
@@ -423,8 +425,9 @@ main {
 .footer-brand,
 .mobile-cta a {
   border: 1px solid rgba(255, 255, 255, 0.08);
-  background: linear-gradient(180deg, rgba(13, 24, 37, 0.72), rgba(8, 16, 25, 0.84));
+  background: linear-gradient(180deg, rgba(13, 24, 37, 0.52), rgba(8, 16, 25, 0.68));
   box-shadow: var(--shadow);
+  backdrop-filter: blur(20px) saturate(120%);
 }
 
 .metric {
@@ -452,7 +455,7 @@ main {
   border-radius: var(--radius-xl);
   background:
     radial-gradient(circle at 30% 20%, rgba(85, 183, 255, 0.18), transparent 28%),
-    linear-gradient(180deg, rgba(13, 24, 37, 0.62), rgba(8, 16, 25, 0.78));
+    linear-gradient(180deg, rgba(13, 24, 37, 0.46), rgba(8, 16, 25, 0.62));
   border: 1px solid rgba(255, 255, 255, 0.08);
   box-shadow: var(--shadow);
 }
@@ -676,8 +679,9 @@ main {
 .feature-item {
   padding: 1rem 1.05rem;
   border-radius: 20px;
-  background: rgba(255, 255, 255, 0.03);
+  background: rgba(255, 255, 255, 0.05);
   border: 1px solid rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(18px);
 }
 
 .feature-item strong {
@@ -695,9 +699,9 @@ main {
   min-height: 520px;
   overflow: hidden;
   background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.08), rgba(8, 16, 25, 0.18)),
-    url("assets/muth-bad-detail.jpg") center 42% / min(560px, 96%) auto no-repeat,
-    linear-gradient(180deg, rgba(13, 24, 37, 0.94), rgba(8, 16, 25, 0.95));
+    linear-gradient(180deg, rgba(255, 255, 255, 0.06), rgba(8, 16, 25, 0.14)),
+    url("assets/muth-bad-detail.jpg") center 42% / min(620px, 100%) auto no-repeat,
+    linear-gradient(180deg, rgba(13, 24, 37, 0.82), rgba(8, 16, 25, 0.86));
 }
 
 .story-media::before {
