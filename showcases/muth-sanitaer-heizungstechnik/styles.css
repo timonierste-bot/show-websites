@@ -34,37 +34,51 @@ body {
   font-family: "Segoe UI", "Aptos", system-ui, sans-serif;
   color: var(--text);
   background:
-    radial-gradient(circle at 12% 10%, rgba(85, 183, 255, 0.18), transparent 22%),
-    radial-gradient(circle at 82% 8%, rgba(255, 191, 105, 0.12), transparent 20%),
-    radial-gradient(circle at 65% 82%, rgba(29, 211, 176, 0.08), transparent 22%),
+    radial-gradient(circle at 18% 14%, rgba(85, 183, 255, 0.2), transparent 18%),
+    radial-gradient(circle at 82% 12%, rgba(255, 191, 105, 0.16), transparent 16%),
+    radial-gradient(circle at 50% 88%, rgba(29, 211, 176, 0.1), transparent 22%),
     linear-gradient(180deg, #061018 0%, #09131d 100%);
+  overflow-x: hidden;
+  isolation: isolate;
 }
 
 body::before,
 body::after {
   content: "";
   position: fixed;
-  inset: 0;
+  inset: -32vmax;
   pointer-events: none;
   z-index: 0;
 }
 
 body::before {
   background:
-    linear-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(255, 255, 255, 0.035) 1px, transparent 1px);
-  background-size: 110px 110px;
-  opacity: 0.12;
-  mask-image: radial-gradient(circle at center, black 44%, transparent 100%);
+    conic-gradient(
+      from 180deg at 50% 50%,
+      rgba(85, 183, 255, 0) 0deg,
+      rgba(85, 183, 255, 0.2) 48deg,
+      rgba(29, 211, 176, 0.16) 120deg,
+      rgba(255, 191, 105, 0.18) 210deg,
+      rgba(85, 183, 255, 0.22) 320deg,
+      rgba(85, 183, 255, 0) 360deg
+    ),
+    radial-gradient(circle at center, rgba(8, 18, 28, 0) 0 47%, rgba(8, 18, 28, 0.18) 60%, rgba(8, 18, 28, 0.56) 100%);
+  filter: blur(84px) saturate(135%);
+  opacity: 0.88;
+  transform-origin: 50% 50%;
+  animation: aurora-spin 32s linear infinite;
 }
 
 body::after {
   background:
-    radial-gradient(circle at 24% 16%, rgba(85, 183, 255, 0.18), transparent 22%),
-    radial-gradient(circle at 74% 20%, rgba(255, 191, 105, 0.12), transparent 18%),
-    radial-gradient(circle at 56% 82%, rgba(29, 211, 176, 0.08), transparent 24%);
-  filter: blur(18px);
-  opacity: 0.9;
+    radial-gradient(circle at 18% 20%, rgba(85, 183, 255, 0.34), transparent 22%),
+    radial-gradient(circle at 76% 18%, rgba(255, 191, 105, 0.24), transparent 20%),
+    radial-gradient(circle at 62% 78%, rgba(29, 211, 176, 0.2), transparent 24%),
+    radial-gradient(circle at 28% 82%, rgba(85, 183, 255, 0.14), transparent 18%);
+  filter: blur(38px);
+  mix-blend-mode: screen;
+  opacity: 0.78;
+  animation: aurora-drift 18s ease-in-out infinite alternate;
 }
 
 a {
@@ -1094,6 +1108,30 @@ main {
 [data-shine] {
   --shine-x: 50%;
   --shine-y: 36%;
+}
+
+@keyframes aurora-spin {
+  from {
+    transform: rotate(0deg) scale(1.02);
+  }
+
+  to {
+    transform: rotate(360deg) scale(1.1);
+  }
+}
+
+@keyframes aurora-drift {
+  0% {
+    transform: translate3d(-4%, -3%, 0) scale(1);
+  }
+
+  50% {
+    transform: translate3d(3%, 2%, 0) scale(1.08);
+  }
+
+  100% {
+    transform: translate3d(-2%, 4%, 0) scale(1.04);
+  }
 }
 
 @media (max-width: 1180px) {
